@@ -1,4 +1,3 @@
-
 ---
 about:
   id: header
@@ -18,12 +17,38 @@ about:
       icon: envelope-fill
 ---
 
-:::{#header}
-
+::: {#header}
 ## Welcome!
 
-My name is Ruby Krasnow _(she/her)_ and I am an aspiring quantitative marine ecologist interested in using modeling and data science to support sustainable fisheries management and marine aquaculture. 
-<!-- I firmly believe in transparency in data management and am an avid Git/GitHub user. Check out my [{{< fa brands github >}} GitHub profile](https://github.com/rmk118){target="_blank"} for examples of my work! -->
-
+My name is Ruby Krasnow *(she/her)* and I am an aspiring quantitative marine ecologist interested in using modeling and data science to support sustainable fisheries management and marine aquaculture.
 :::
 
+## Education
+
+In January 2025, I will be starting a PhD in Marine Biology at the University of Maine School of Marine Sciences. My primary advisor will be Dr. Damian Brady, who leads a large lab group focused on [Marine Sciences of Aquaculture, Fisheries, and Renewable Energy](https://umaine.edu/bradylab/). I have been working with the Brady lab since 2022 and am thrilled to continue my education as a member of such an exciting, collaborative, and passionate group of researchers.
+
+**B.A., Biology** - Clark University, Worcester, MA \| Expected: Dec. 2024
+
+-   Minor in Mathematics
+-   GPA: 4.0
+
+**Semester in Environmental Science** - Marine Biological Laboratory, Woods Hole, MA \| Fall 2023
+
+## Interests
+
+-   Kelp aquaculture
+    -   Kelp Dynamic Energy Budget models
+    -   Spatial modeling for aquaculture site selection
+
+-   Quantitative fisheries
+    -   I am especially interested stock assessment/population dynamics models for economically important crustacean species, particularly data-poor species like the Jonah crab (*Cancer borealis*)
+    -   Estimating crustacean size at maturity from allometric data
+
+-   Synthesis research: systematic reviews, meta-analysis, interdisciplinary collaborations
+
+-   Open and reproducible data science
+
+-   Statistical analysis, modeling, and data visualization in R
+    -   Generalized linear mixed models (GLMMs) and related techniques
+    -   Simulation (dynamical) modeling
+    -   Spatiotemporal modeling (including geostatistics and time series analysis)
