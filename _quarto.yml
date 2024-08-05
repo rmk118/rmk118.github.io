@@ -8,15 +8,15 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: resources.qmd
-        text: Resources
       - href: pubs.qmd
         text: Publications
+      - href: resources.qmd
+        text: Resources
     right:
-      - icon: github
-        href: https://github.com/rmk118
       - icon: envelope-fill
         href: mailto:rubykrasnow@gmail.com
+      - icon: github
+        href: https://github.com/rmk118
       - icon: linkedin
         href: https://www.linkedin.com/in/ruby-krasnow/
       - text: "{{< fa brands orcid >}}"

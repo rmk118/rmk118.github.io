@@ -27,6 +27,8 @@ about:
 ## Welcome!
 
 My name is Ruby Krasnow *(she/her)* and I am an aspiring quantitative marine ecologist interested in using modeling and data science to support sustainable fisheries management and marine aquaculture.
+
+[View my full resume here](resume8-5-24.pdf){target="_blank"}
 :::
 
 ## Education
@@ -43,10 +45,12 @@ In January 2025, I will be starting a PhD in Marine Biology at the University of
 ## Interests
 
 -   Kelp aquaculture
+
     -   Kelp Dynamic Energy Budget models
     -   Spatial modeling for aquaculture site selection
 
 -   Quantitative fisheries
+
     -   I am especially interested stock assessment/population dynamics models for economically important crustacean species, particularly data-poor species like the Jonah crab (*Cancer borealis*)
     -   Estimating crustacean size at maturity from allometric data
 
@@ -55,6 +59,7 @@ In January 2025, I will be starting a PhD in Marine Biology at the University of
 -   Open and reproducible data science
 
 -   Statistical analysis, modeling, and data visualization in R
+
     -   Generalized linear mixed models (GLMMs) and related techniques
     -   Simulation (dynamical) modeling
     -   Spatiotemporal modeling (including geostatistics and time series analysis)
