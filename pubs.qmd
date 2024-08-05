@@ -1,0 +1,35 @@
+---
+  title: "Publications"
+---
+
+## Papers
+
+#### Published
+
+Krasnow, R., Gonzalez, S., and Lindell, S. Improving growth models of cultivated sugar kelp, *Saccharina latissima*, by accounting for intraspecific variation in thermal tolerance. **2024**. Journal of the World Aquaculture Society. <https://doi.org/10.1111/jwas.13085>
+
+#### In review/revision
+
+Krasnow, R., Kiffney, T., Coleman, S., Cuddy, R., and Brady, D. Quantifying oyster aquaculture lease acceptance: a case study on repurposed Maine lobster pounds. *In review*, Aquaculture Reports.
+
+Krasnow, R., Kaufman, L., and Deyle, E. A holistic approach to modeling the growing fishery for Jonah crab (*Cancer borealis*) in the Gulf of Maine. *In revision*, ICES Journal of Marine Science.
+
+## Presentations
+
+Krasnow, R. & Shank, B. Modeling spatial variation in Jonah crab (*Cancer borealis*) size at maturity. Poster. *Ecological Society of America Annual Meeting*, Long Beach, CA
+
+Krasnow, R. & Shank, B. Modeling spatial variation in Jonah crab (*Cancer borealis*) size at maturity. Poster. *NOAA Science & Education Symposium*, Silver Spring, MD
+
+Krasnow, R., Kiffney, T., Coleman, S., Cuddy, R., and Brady, D. (Jan. 2024). Quantifying oyster aquaculture lease acceptance: a case study on repurposed Maine lobster pounds. Oral presentation. *Northeast Aquaculture Conference & Exposition and Milford Aquaculture Seminar*, Providence, RI
+
+Krasnow, R., Gonzales, S., Lindell, S. (Dec. 2023). Improving Models of Kelp (*Saccharina latissima*) Aquaculture by Accounting for Regional Variation in Thermal Tolerance. Oral presentation. *Semester in Environmental Science Research Symposium*, Marine Biological Laboratory, Woods Hole, MA
+
+Krasnow, R. (Nov. 2023). Nonlinear Population Dynamics of Jonah Crab (*Cancer borealis*) in the Gulf of Maine. Poster. *Annual Biomedical Research Conference for Minoritized Scientists (ABRCMS)*, Phoenix, AZ
+
+Krasnow, R. (Aug. 2023). Nonlinear Dynamics of Jonah Crab in the Gulf of Maine: An Ecosystem Approach to Modeling an Emerging Fishery. Oral presentation. *BRITE REU Symposium*, Boston University, Boston, MA
+
+Krasnow, R. (Feb. 2023). ​​Modeling Macroalgae: Applications of Mathematics in Kelp Aquaculture. Poster. *Math for All - Boston Satellite Conference*, Boston College, Boston, MA
+
+Krasnow, R., Cuddy, R., Kiffney, T., Marsh, J., and Brady, D. (Sept. 2022). ​​Effects of environment and cultivation method on growth, appearance, and biofouling in oyster aquaculture. Poster. *Fall ClarkFEST,* Clark University, Worcester, MA
+
+Krasnow, R., Cuddy, R., Kiffney, T., Marsh, J., and Brady, D. (Aug. 2022). Effects of gear selection on oyster (*Crassostrea virginica*) mortality, growth, shape, and biofouling within a repurposed lobster pound. Poster. *SEA Fellows Symposium*, Downeast Institute, Beals, ME.

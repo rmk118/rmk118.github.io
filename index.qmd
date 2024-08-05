@@ -15,6 +15,12 @@ about:
     - href: mailto:rubykrasnow@gmail.com
       text: Email
       icon: envelope-fill
+    - href: https://orcid.org/0009-0007-0531-8420
+      text: "{{< fa brands orcid >}} ORCID"
+    - href: https://twitter.com/rmk_118
+      text: "{{< fa brands x-twitter >}} Twitter/X"
+    - href: https://www.strava.com/athletes/117549632
+      text: "{{< fa brands strava >}} Strava"
 ---
 
 ::: {#header}

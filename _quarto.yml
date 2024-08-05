@@ -10,6 +10,8 @@ website:
         text: Home
       - href: resources.qmd
         text: Resources
+      - href: pubs.qmd
+        text: Publications
     right:
       - icon: github
         href: https://github.com/rmk118
@@ -17,6 +19,10 @@ website:
         href: mailto:rubykrasnow@gmail.com
       - icon: linkedin
         href: https://www.linkedin.com/in/ruby-krasnow/
+      - text: "{{< fa brands orcid >}}"
+        href: https://orcid.org/0009-0007-0531-8420 
+      - text: "{{< fa brands x-twitter >}}"
+        href: https://twitter.com/rmk_118
 
 format:
   html:
