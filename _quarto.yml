@@ -8,7 +8,10 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: Research
+      - href: resources.qmd
+        text: Resources
     right:
       - icon: github
         href: https://github.com/rmk118

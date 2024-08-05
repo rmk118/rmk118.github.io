@@ -16,9 +16,6 @@ about:
     - href: mailto:rubykrasnow@gmail.com
       text: Email
       icon: envelope-fill
-    - href: https://twitter.com/rmk_118
-      text: Twitter (X)
-      icon: square-x-twitter
 ---
 
 :::{#header}
@@ -29,3 +26,4 @@ My name is Ruby Krasnow _(she/her)_ and I am an aspiring quantitative marine eco
 <!-- I firmly believe in transparency in data management and am an avid Git/GitHub user. Check out my [{{< fa brands github >}} GitHub profile](https://github.com/rmk118){target="_blank"} for examples of my work! -->
 
 :::
+

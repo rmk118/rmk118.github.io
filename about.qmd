@@ -1,9 +1,22 @@
 ---
-title: "About"
+title: "Research"
 ---
 
-About this site
+# Crustacean size at maturity
 
-```{r}
-1 + 1
-```
+Talk about SM50 project here
+
+# Kelp aquaculture
+
+# Oyster aquaculture
+
+- Effects of cultivation method & environment
+- Biofouling
+
+
+
+# To be continued?
+
+## Kelp microbiome
+
+## Invasive species modeling

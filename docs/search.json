@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Ruby Krasnow",
     "section": "",
-    "text": "GitHub\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email\n  \n  \n    \n     Twitter (X)\n  \n\n  \n  \n\n\nMy name is Ruby Krasnow (she/her) and I am an aspiring quantitative marine ecologist interested in using modeling and data science to support sustainable fisheries management and marine aquaculture."
+    "text": "GitHub\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email\n  \n\n  \n  \n\n\nMy name is Ruby Krasnow (she/her) and I am an aspiring quantitative marine ecologist interested in using modeling and data science to support sustainable fisheries management and marine aquaculture."
   },
   {
     "objectID": "index.html#welcome",
@@ -16,8 +16,29 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Research",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Talk about SM50 project here"
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "These are documents and spreadsheets I have created for myself to keep track of useful links. Although they are personalized to my research interests and the tools I use most frequently, many of the resources could be useful for any kind of quantitative ecology.\nAcknowledgement would always be welcome if you use these resources while preparing a manuscript, presentation, or other research product, but mostly I would just want to hear about the project! I am always looking to connect with people doing any sort of marine science, quantitative ecology, or applied data science, and I would love to talk about possible opportunities for collaboration.\n\nGeneral Resource Lists\nThis document is my general “Resources” catch-all, primarily focused on sites that I have found helpful when self-teaching concepts in R or general modeling/stats/data science.\nThis Data Sources & Tools document is more focused on sources of raw data for analysis, but the “To be classified” section at the bottom also includes links to more instructional sites, reference documents, etc.\n\n\nR packages\nThis is a Google sheet containing a list of R packages I want to keep track of for possible future use. It is roughly organized by topic, but many packages could fall under multiple categories.\nThe CRAN Task Views are an amazing place to find comprehensive guidance on which packages are suitable for a given task. Other sites to check out include rOpenSciand Bioconductor (for bioinformatics packages).\n\n\nJournals\nThis is a Google sheet containing a list of journals that publish papers related to my areas of research. I have generally tried to exclude journals/publishers known to be predatory or egregiously exploit authors and/or reviewers, but have not rigorously checked them (e.g., using criteria suggested here or here)."
+  },
+  {
+    "objectID": "about.html#kelp-microbiome",
+    "href": "about.html#kelp-microbiome",
+    "title": "Research",
+    "section": "Kelp microbiome",
+    "text": "Kelp microbiome"
+  },
+  {
+    "objectID": "about.html#invasive-species-modeling",
+    "href": "about.html#invasive-species-modeling",
+    "title": "Research",
+    "section": "Invasive species modeling",
+    "text": "Invasive species modeling"
   }
 ]
