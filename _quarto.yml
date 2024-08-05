@@ -3,18 +3,27 @@ project:
   output-dir: docs
 
 website:
-  title: "rmk118"
+  title: "Ruby Krasnow"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+    right:
+      - icon: github
+        href: https://github.com/rmk118
+      - icon: envelope-fill
+        href: mailto:rubykrasnow@gmail.com
+      - icon: linkedin
+        href: https://www.linkedin.com/in/ruby-krasnow/
 
 format:
   html:
-    theme: cosmo
+    theme: minty
     css: styles.css
     toc: true
+    link-external-newwindow: true
+    link-external-icon: false
 
 
 
