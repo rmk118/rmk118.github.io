@@ -56,7 +56,8 @@ In January 2025, I will be starting a PhD in Marine Biology at the University of
 
 -   Synthesis research: systematic reviews, meta-analysis, interdisciplinary collaborations
 
--   Open and reproducible data science
+-   Open and reproducible data science: [FAIR](https://www.go-fair.org/fair-principles/) (findable, accessible, interoperable, and reusable) data
+
 
 -   Statistical analysis, modeling, and data visualization in R
 
