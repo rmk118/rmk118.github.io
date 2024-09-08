@@ -10,6 +10,8 @@ Krasnow, R., Gonzalez, S., and Lindell, S. Improving growth models of cultivated
 
 #### In review/revision
 
+Krasnow, R**.** Making partial differential equations accessible to ecologists. *In review*, Nature Reviews Biodiversity.
+
 Krasnow, R., Kiffney, T., Coleman, S., Cuddy, R., and Brady, D. Quantifying oyster aquaculture lease acceptance: a case study on repurposed Maine lobster pounds. *In review*, Aquaculture Reports.
 
 Krasnow, R., Kaufman, L., and Deyle, E. A holistic approach to modeling the growing fishery for Jonah crab (*Cancer borealis*) in the Gulf of Maine. *In revision*, ICES Journal of Marine Science.
