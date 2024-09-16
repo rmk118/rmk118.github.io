@@ -16,7 +16,7 @@ This [Data Sources & Tools](https://docs.google.com/document/d/1ymJEjSLO0InMS4XK
 
 [This is a Google sheet containing a list of R packages](https://docs.google.com/spreadsheets/d/1VI1THL5XEfAE6w_QdG3LwXXNv0n4hxj5AuL9GkQdmBE/edit?usp=sharing) I want to keep track of for possible future use. It is roughly organized by topic, but many packages could fall under multiple categories.
 
-The [CRAN Task Views](https://cran.r-project.org/web/views/) are an amazing place to find comprehensive guidance on which packages are suitable for a given task. Other sites to check out include [rOpenSci](https://ropensci.org/)and [Bioconductor](https://www.bioconductor.org/) (for bioinformatics packages).
+The [CRAN Task Views](https://cran.r-project.org/web/views/) are an amazing place to find comprehensive guidance on which packages are suitable for a given task. Other sites to check out include [rOpenSci](https://ropensci.org/) and [Bioconductor](https://www.bioconductor.org/) (for bioinformatics packages).
 
 ### Journals
 
