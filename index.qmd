@@ -21,8 +21,7 @@ about:
       text: "{{< fa brands x-twitter >}} Twitter/X"
     - href: https://www.strava.com/athletes/117549632
       text: "{{< fa brands strava >}} Strava"
-    - href: https://bsky.app/profile/rubyk.bsky.social 
-      text: "{{< fa brands bluesky >}} Bluesky"
+      
 ---
 
 ::: {#header}
