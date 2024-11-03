@@ -29,7 +29,7 @@ about:
 
 My name is Ruby Krasnow *(she/her)* and I am a quantitative marine ecologist focused on using modeling and data science to support sustainable fisheries management and marine aquaculture.
 
-[View my full CV here](Krasnow_CV_for_website_9-8-24.pdf){target="_blank"}
+[View my full CV here](Krasnow_CV_for_web_11-02-24.pdf){target="_blank"}
 :::
 
 ## Education
