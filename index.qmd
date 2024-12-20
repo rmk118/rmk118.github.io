@@ -17,10 +17,10 @@ about:
       icon: envelope-fill
     - href: https://orcid.org/0009-0007-0531-8420
       text: "{{< fa brands orcid >}} ORCID"
-    - href: https://twitter.com/rmk_118
-      text: "{{< fa brands x-twitter >}} Twitter/X"
     - href: https://www.strava.com/athletes/117549632
       text: "{{< fa brands strava >}} Strava"
+    - href: https://bsky.app/profile/rubyk.bsky.social
+      text: "{{< fa brands bluesky >}} Bluesky"
       
 ---
 
@@ -34,9 +34,9 @@ My name is Ruby Krasnow *(she/her)* and I am a quantitative marine ecologist foc
 
 ## Education
 
-In January 2025, I will be starting a PhD in Marine Biology at the University of Maine School of Marine Sciences. My primary advisor will be Dr. Damian Brady, who leads a large lab group focused on [Marine Sciences of Aquaculture, Fisheries, and Renewable Energy](https://umaine.edu/bradylab/). I have been working with the Brady lab since 2022 and am thrilled to continue my education as a member of such an exciting, collaborative, and passionate group of researchers.
+I am a first-year Ph.D. student studying Marine Biology at the University of Maine. My primary advisor is Dr. Damian Brady, who leads a large lab group focused on [Marine Sciences of Aquaculture, Fisheries, and Renewable Energy](https://umaine.edu/bradylab/). I have been working with the Brady lab since 2022 and am thrilled to continue my education as a member of such an exciting, collaborative, and passionate group of researchers.
 
-**B.A., Biology** - Clark University, Worcester, MA \| Expected: Dec. 2024
+**B.A., Biology** - Clark University, Worcester, MA \| Dec. 2024
 
 -   Minor in Mathematics
 -   GPA: 4.0

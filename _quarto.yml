@@ -21,8 +21,8 @@ website:
         href: https://www.linkedin.com/in/ruby-krasnow/
       - text: "{{< fa brands orcid >}}"
         href: https://orcid.org/0009-0007-0531-8420 
-      - text: "{{< fa brands x-twitter >}}"
-        href: https://twitter.com/rmk_118
+      - text: "{{< fa brands bluesky >}}"
+        href: https://bsky.app/profile/rubyk.bsky.social
 
 format:
   html:
