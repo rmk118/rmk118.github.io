@@ -28,8 +28,6 @@ about:
 ## Welcome!
 
 My name is Ruby Krasnow *(she/her)* and I am a quantitative marine ecologist focused on using modeling and data science to support sustainable fisheries management and marine aquaculture.
-
-[View my full CV here](Krasnow_CV_for_web_11-02-24.pdf){target="_blank"}
 :::
 
 ## Education
@@ -62,13 +60,12 @@ I am a first-year Ph.D. student studying Marine Biology at the University of Mai
 
 ### Applications
 
--   Marine aquaculture
+#### Quantitative fisheries
 
-    -   Dynamic Energy Budget models of cultivated sugar kelp
-    -   Spatial modeling for aquaculture site selection
-    -   Quantifying, predicting, and mitigating biofouling in kelp and shellfish aquaculture
+I am especially interested stock assessment and population dynamics models for economically important crustacean species, particularly data-poor species like the Jonah crab (*Cancer borealis*). My dissertation is broadly focused on [estimating crustacean size at maturity from morphometric data](https://rmk118.github.io/thesis_proposal/).
 
--   Quantitative fisheries
+#### Marine aquaculture
 
-    -   I am especially interested stock assessment and population dynamics models for economically important crustacean species, particularly data-poor species like the Jonah crab (*Cancer borealis*)
-    -   Estimating crustacean size at maturity from allometric data
+-   Dynamic Energy Budget models of cultivated sugar kelp
+-   Spatial modeling for aquaculture site selection
+-   Quantifying, predicting, and mitigating biofouling in kelp and shellfish aquaculture

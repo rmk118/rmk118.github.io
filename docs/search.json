@@ -1,17 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Ruby Krasnow",
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
     "section": "",
-    "text": "GitHub\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email\n  \n  \n      ORCID\n  \n  \n      Strava\n  \n  \n      Bluesky\n  \n\n  \n  \n\n\nMy name is Ruby Krasnow (she/her) and I am a quantitative marine ecologist focused on using modeling and data science to support sustainable fisheries management and marine aquaculture.\nView my full CV here"
-  },
-  {
-    "objectID": "index.html#welcome",
-    "href": "index.html#welcome",
-    "title": "Ruby Krasnow",
-    "section": "",
-    "text": "My name is Ruby Krasnow (she/her) and I am a quantitative marine ecologist focused on using modeling and data science to support sustainable fisheries management and marine aquaculture.\nView my full CV here"
+    "text": "These are documents and spreadsheets I have created for myself to keep track of useful links. Although they are personalized to my research interests and the tools I use most frequently, many of the resources could be useful for any kind of quantitative ecology.\nAcknowledgement would always be welcome if you use these resources while preparing a manuscript, presentation, or other research product, but mostly I would just want to hear about the project! I am always looking to connect with people doing any sort of marine science, quantitative ecology, or applied data science, and I would love to talk about possible opportunities for collaboration.\n\nGeneral Resource Lists\nThis document is my general “Resources” catch-all, primarily focused on sites that I have found helpful when self-teaching concepts in R or general modeling/stats/data science.\nThis Data Sources & Tools document is more focused on sources of raw data for analysis, but the “To be classified” section at the bottom also includes links to more instructional sites, reference documents, etc.\n\n\nR packages\nThis is a Google sheet containing a list of R packages I want to keep track of for possible future use. It is roughly organized by topic, but many packages could fall under multiple categories.\nThe CRAN Task Views are an amazing place to find comprehensive guidance on which packages are suitable for a given task. Other sites to check out include rOpenSci and Bioconductor (for bioinformatics packages).\n\n\nJournals\nThis is a Google sheet containing a list of journals that publish papers related to my areas of research. I have generally tried to exclude journals/publishers known to be predatory or egregiously exploit authors and/or reviewers, but have not rigorously checked them (e.g., using criteria suggested here or here)."
   },
   {
     "objectID": "about.html",
@@ -21,25 +14,18 @@
     "text": "Crustacean size at maturity\n\n\nAquaculture\n\nSugar kelp (Saccharina latissima) Dynamic Energy Budget models\nInteractive effects of cultivation method & environmental conditions on the growth, shape, mortality, and biofouling of American oysters (Crassostrea virginica)\n\n\n\nMisc.\nI have made a substantial start on these projects through research I have done for my academic classes, but do not have a current plan for turning my preliminary work into a publishable product. If you are interested in collaborating on any of these topics, please reach out.\n\nFunction and composition of the kelp microbiome\nModeling the spread of invasive tunicates with species distribution models (SDMs) and/or reaction-diffusion equations\n\nTaking a multi-model approach for invasion prediction (combining niche modeling, GAMs, ML techniques, partial differential equation and integrodifference equations, etc.) to improve predictive accuracy and better inform control efforts"
   },
   {
-    "objectID": "resources.html",
-    "href": "resources.html",
-    "title": "Resources",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ruby Krasnow",
     "section": "",
-    "text": "These are documents and spreadsheets I have created for myself to keep track of useful links. Although they are personalized to my research interests and the tools I use most frequently, many of the resources could be useful for any kind of quantitative ecology.\nAcknowledgement would always be welcome if you use these resources while preparing a manuscript, presentation, or other research product, but mostly I would just want to hear about the project! I am always looking to connect with people doing any sort of marine science, quantitative ecology, or applied data science, and I would love to talk about possible opportunities for collaboration.\n\nGeneral Resource Lists\nThis document is my general “Resources” catch-all, primarily focused on sites that I have found helpful when self-teaching concepts in R or general modeling/stats/data science.\nThis Data Sources & Tools document is more focused on sources of raw data for analysis, but the “To be classified” section at the bottom also includes links to more instructional sites, reference documents, etc.\n\n\nR packages\nThis is a Google sheet containing a list of R packages I want to keep track of for possible future use. It is roughly organized by topic, but many packages could fall under multiple categories.\nThe CRAN Task Views are an amazing place to find comprehensive guidance on which packages are suitable for a given task. Other sites to check out include rOpenSci and Bioconductor (for bioinformatics packages).\n\n\nJournals\nThis is a Google sheet containing a list of journals that publish papers related to my areas of research. I have generally tried to exclude journals/publishers known to be predatory or egregiously exploit authors and/or reviewers, but have not rigorously checked them (e.g., using criteria suggested here or here)."
+    "text": "GitHub\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email\n  \n  \n      ORCID\n  \n  \n      Strava\n  \n  \n      Bluesky\n  \n\n  \n  \n\n\nMy name is Ruby Krasnow (she/her) and I am a quantitative marine ecologist focused on using modeling and data science to support sustainable fisheries management and marine aquaculture."
   },
   {
-    "objectID": "about.html#kelp-microbiome",
-    "href": "about.html#kelp-microbiome",
-    "title": "Research",
-    "section": "Kelp microbiome",
-    "text": "Kelp microbiome"
-  },
-  {
-    "objectID": "about.html#invasive-species-modeling",
-    "href": "about.html#invasive-species-modeling",
-    "title": "Research",
-    "section": "Invasive species modeling",
-    "text": "Invasive species modeling"
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Ruby Krasnow",
+    "section": "",
+    "text": "My name is Ruby Krasnow (she/her) and I am a quantitative marine ecologist focused on using modeling and data science to support sustainable fisheries management and marine aquaculture."
   },
   {
     "objectID": "index.html#education",
@@ -49,18 +35,11 @@
     "text": "Education\nI am a first-year Ph.D. student studying Marine Biology at the University of Maine. My primary advisor is Dr. Damian Brady, who leads a large lab group focused on Marine Sciences of Aquaculture, Fisheries, and Renewable Energy. I have been working with the Brady lab since 2022 and am thrilled to continue my education as a member of such an exciting, collaborative, and passionate group of researchers.\nB.A., Biology - Clark University, Worcester, MA | Dec. 2024\n\nMinor in Mathematics\nGPA: 4.0\n\nSemester in Environmental Science - Marine Biological Laboratory, Woods Hole, MA | Fall 2023"
   },
   {
-    "objectID": "index.html#research-interests",
-    "href": "index.html#research-interests",
+    "objectID": "index.html#research",
+    "href": "index.html#research",
     "title": "Ruby Krasnow",
-    "section": "Research Interests",
-    "text": "Research Interests\n\nFisheries &"
-  },
-  {
-    "objectID": "index.html#interests",
-    "href": "index.html#interests",
-    "title": "Ruby Krasnow",
-    "section": "Interests",
-    "text": "Interests\n\nKelp aquaculture\n\nKelp Dynamic Energy Budget models\nSpatial modeling for aquaculture site selection\n\nQuantitative fisheries\n\nI am especially interested stock assessment/population dynamics models for economically important crustacean species, particularly data-poor species like the Jonah crab (Cancer borealis)\nEstimating crustacean size at maturity from allometric data\n\nSynthesis research: systematic reviews, meta-analysis, interdisciplinary collaborations\nOpen and reproducible data science: FAIR (findable, accessible, interoperable, and reusable) data\nStatistical analysis, modeling, and data visualization in R\n\nGeneralized linear mixed models (GLMMs) and related techniques\nSimulation (dynamical) modeling\nSpatiotemporal modeling (including geostatistics and time series analysis)"
+    "section": "Research",
+    "text": "Research\n\nMethods & Approaches\n\nSynthesis research: systematic reviews, meta-analysis, interdisciplinary collaborations\nOpen and reproducible data science: FAIR (findable, accessible, interoperable, and reusable) data\nStatistical analysis, modeling, and data visualization in R\n\nGeneralized linear models, mixed-effects models, and related methods\nDynamical/state-space modeling\n\nApplications of ordinary and partial differential equations in ecology\n\nBayesian analysis\nSpatiotemporal modeling (including geostatistics and time series analysis)\nR package development\n\n\n\n\nApplications\n\nQuantitative fisheries\nI am especially interested stock assessment and population dynamics models for economically important crustacean species, particularly data-poor species like the Jonah crab (Cancer borealis). My dissertation is broadly focused on estimating crustacean size at maturity from morphometric data.\n\n\nMarine aquaculture\n\nDynamic Energy Budget models of cultivated sugar kelp\nSpatial modeling for aquaculture site selection\nQuantifying, predicting, and mitigating biofouling in kelp and shellfish aquaculture"
   },
   {
     "objectID": "pubs.html",
@@ -70,11 +49,11 @@
     "text": "Krasnow, R., Gonzalez, S., & Lindell, S. Improving growth models of cultivated sugar kelp, Saccharina latissima, by accounting for intraspecific variation in thermal tolerance. 2024. Journal of the World Aquaculture Society. https://doi.org/10.1111/jwas.13085\nChammout, H., Adkins, D. L., Al-Olimat, A. K., …, Krasnow, R., … & Kagey, J. D. G.3.2 is a novel allele of the gene connector enhancer of ksr (cnk) in Drosophila melanogaster. 2024. microPublication Biology. https://doi.org/10.17912/micropub.biology.001290\nKrasnow, R. Making partial differential equations accessible to ecologists. In press, Nature Reviews Biodiversity.\nKrasnow, R., Kiffney, T., Coleman, S., Cuddy, R., & Brady, D. Interacting effects of environment and cultivation method on biofouling of farmed oysters (Crassostrea virginica). In revision, Journal of the World Aquaculture Society.\nKrasnow, R., Kaufman, L., & Deyle, E. A holistic approach to modeling the growing fishery for Jonah crab (Cancer borealis) in the Gulf of Maine. In revision, Fish & Fisheries.\nKrasnow, R., Kiffney, T., Cuddy, R., & Brady, D. Quantifying oyster aquaculture lease acceptance: a case study on repurposed Maine lobster pounds. In review, Aquaculture Reports."
   },
   {
-    "objectID": "pubs.html#papers",
-    "href": "pubs.html#papers",
+    "objectID": "pubs.html#publications",
+    "href": "pubs.html#publications",
     "title": "Publications",
     "section": "",
-    "text": "Krasnow, R., Gonzalez, S., & Lindell, S. Improving growth models of cultivated sugar kelp, Saccharina latissima, by accounting for intraspecific variation in thermal tolerance. 2024. Journal of the World Aquaculture Society. https://doi.org/10.1111/jwas.13085\nChammout, H., Adkins, D. L., Al-Olimat, A. K., …, Krasnow, R., … & Kagey, J. D. G.3.2 is a novel allele of the gene connector enhancer of ksr (cnk) in Drosophila melanogaster. 2024. microPublication Biology. https://doi.org/10.17912/micropub.biology.001290\n\n\n\nKrasnow, R. Making partial differential equations accessible to ecologists. In review, Nature Reviews Biodiversity.\nKrasnow, R., Kiffney, T., Cuddy, R., & Brady, D. Quantifying oyster aquaculture lease acceptance: a case study on repurposed Maine lobster pounds. In review, Aquaculture Reports.\nKrasnow, R., Kiffney, T., Coleman, S., Cuddy, R., & Brady, D. Interacting effects of environment and cultivation method on biofouling of farmed oysters (Crassostrea virginica). In review, Journal of the World Aquaculture Society.\nKrasnow, R., Kaufman, L., & Deyle, E. A holistic approach to modeling the growing fishery for Jonah crab (Cancer borealis) in the Gulf of Maine. In review, Fish & Fisheries."
+    "text": "Krasnow, R., Gonzalez, S., & Lindell, S. Improving growth models of cultivated sugar kelp, Saccharina latissima, by accounting for intraspecific variation in thermal tolerance. 2024. Journal of the World Aquaculture Society. https://doi.org/10.1111/jwas.13085\nChammout, H., Adkins, D. L., Al-Olimat, A. K., …, Krasnow, R., … & Kagey, J. D. G.3.2 is a novel allele of the gene connector enhancer of ksr (cnk) in Drosophila melanogaster. 2024. microPublication Biology. https://doi.org/10.17912/micropub.biology.001290\nKrasnow, R. Making partial differential equations accessible to ecologists. In press, Nature Reviews Biodiversity.\nKrasnow, R., Kiffney, T., Coleman, S., Cuddy, R., & Brady, D. Interacting effects of environment and cultivation method on biofouling of farmed oysters (Crassostrea virginica). In revision, Journal of the World Aquaculture Society.\nKrasnow, R., Kaufman, L., & Deyle, E. A holistic approach to modeling the growing fishery for Jonah crab (Cancer borealis) in the Gulf of Maine. In revision, Fish & Fisheries.\nKrasnow, R., Kiffney, T., Cuddy, R., & Brady, D. Quantifying oyster aquaculture lease acceptance: a case study on repurposed Maine lobster pounds. In review, Aquaculture Reports."
   },
   {
     "objectID": "pubs.html#presentations",
@@ -82,19 +61,5 @@
     "title": "Publications",
     "section": "Presentations",
     "text": "Presentations\nKrasnow, R. & Shank, B. (2024). Modeling spatial variation in Jonah crab (Cancer borealis) size at maturity. Poster. Ecological Society of America Annual Meeting, Long Beach, CA\nKrasnow, R. & Shank, B. (2024). Modeling spatial variation in Jonah crab (Cancer borealis) size at maturity. Poster. NOAA Science & Education Symposium, Silver Spring, MD\nKrasnow, R., Kiffney, T., Coleman, S., Cuddy, R., & Brady, D. (2024). Quantifying oyster aquaculture lease acceptance: a case study on repurposed Maine lobster pounds. Oral presentation. Northeast Aquaculture Conference & Exposition and Milford Aquaculture Seminar, Providence, RI\nKrasnow, R., Gonzales, S., & Lindell, S. (2023). Improving Models of Kelp (Saccharina latissima) Aquaculture by Accounting for Regional Variation in Thermal Tolerance. Oral presentation. Semester in Environmental Science Research Symposium, Marine Biological Laboratory, Woods Hole, MA\nKrasnow, R. (2023). Nonlinear Population Dynamics of Jonah Crab (Cancer borealis) in the Gulf of Maine. Poster. Annual Biomedical Research Conference for Minoritized Scientists (ABRCMS), Phoenix, AZ\nKrasnow, R. (2023). Nonlinear Dynamics of Jonah Crab in the Gulf of Maine: An Ecosystem Approach to Modeling an Emerging Fishery. Oral presentation. BRITE REU Symposium, Boston University, Boston, MA\nKrasnow, R. (2023). ​​Modeling Macroalgae: Applications of Mathematics in Kelp Aquaculture. Poster. Math for All - Boston Satellite Conference, Boston College, Boston, MA\nKrasnow, R., Cuddy, R., Kiffney, T., Marsh, J., & Brady, D. (2022). ​​Effects of environment and cultivation method on growth, appearance, and biofouling in oyster aquaculture. Poster. Fall ClarkFEST, Clark University, Worcester, MA\nKrasnow, R., Cuddy, R., Kiffney, T., Marsh, J., & Brady, D. (2022). Effects of gear selection on oyster (Crassostrea virginica) mortality, growth, shape, and biofouling within a repurposed lobster pound. Poster. SEA Fellows Symposium, Downeast Institute, Beals, ME."
-  },
-  {
-    "objectID": "index.html#research",
-    "href": "index.html#research",
-    "title": "Ruby Krasnow",
-    "section": "Research",
-    "text": "Research\n\nMethods & Approaches\n\nSynthesis research: systematic reviews, meta-analysis, interdisciplinary collaborations\nOpen and reproducible data science: FAIR (findable, accessible, interoperable, and reusable) data\nStatistical analysis, modeling, and data visualization in R\n\nGeneralized linear models, mixed-effects models, and related methods\nDynamical/state-space modeling\n\nApplications of ordinary and partial differential equations in ecology\n\nBayesian analysis\nSpatiotemporal modeling (including geostatistics and time series analysis)\nR package development\n\n\n\n\nApplications\n\nMarine aquaculture\n\nDynamic Energy Budget models of cultivated sugar kelp\nSpatial modeling for aquaculture site selection\nQuantifying, predicting, and mitigating biofouling in kelp and shellfish aquaculture\n\nQuantitative fisheries\n\nI am especially interested stock assessment and population dynamics models for economically important crustacean species, particularly data-poor species like the Jonah crab (Cancer borealis)\nEstimating crustacean size at maturity from allometric data"
-  },
-  {
-    "objectID": "pubs.html#publications",
-    "href": "pubs.html#publications",
-    "title": "Publications",
-    "section": "",
-    "text": "Krasnow, R., Gonzalez, S., & Lindell, S. Improving growth models of cultivated sugar kelp, Saccharina latissima, by accounting for intraspecific variation in thermal tolerance. 2024. Journal of the World Aquaculture Society. https://doi.org/10.1111/jwas.13085\nChammout, H., Adkins, D. L., Al-Olimat, A. K., …, Krasnow, R., … & Kagey, J. D. G.3.2 is a novel allele of the gene connector enhancer of ksr (cnk) in Drosophila melanogaster. 2024. microPublication Biology. https://doi.org/10.17912/micropub.biology.001290\nKrasnow, R. Making partial differential equations accessible to ecologists. In press, Nature Reviews Biodiversity.\nKrasnow, R., Kiffney, T., Coleman, S., Cuddy, R., & Brady, D. Interacting effects of environment and cultivation method on biofouling of farmed oysters (Crassostrea virginica). In revision, Journal of the World Aquaculture Society.\nKrasnow, R., Kaufman, L., & Deyle, E. A holistic approach to modeling the growing fishery for Jonah crab (Cancer borealis) in the Gulf of Maine. In revision, Fish & Fisheries.\nKrasnow, R., Kiffney, T., Cuddy, R., & Brady, D. Quantifying oyster aquaculture lease acceptance: a case study on repurposed Maine lobster pounds. In review, Aquaculture Reports."
   }
 ]
