@@ -14,11 +14,13 @@ Krasnow, R., Kaufman, L., & Deyle, E. A holistic approach to modeling the growin
 
 Krasnow, R., Kiffney, T., Cuddy, R., & Brady, D. Quantifying oyster aquaculture lease acceptance: a case study on repurposed Maine lobster pounds. *In review,* Aquaculture Reports.
 
-## Other Articles
+## Magazine Articles & Blog Posts
 
-Krasnow, R. M. (2025). A Tasty Enigma. The Marine Biologist, 33, 12–16. (<https://www.mba.ac.uk/our-membership/our-magazine/>) 
+Krasnow, R. (2025). A Tasty Enigma. *The Marine Biologist*, 33, 12–16. (<https://www.mba.ac.uk/our-membership/our-magazine/>) 
 
-Krasnow, R. (2022). Reviving lobster pounds as oyster farms. The Working Waterfront. <https://www.islandinstitute.org/working-waterfront/reviving-lobster-pounds-as-oyster-farms/>
+Gruson, H., Butland, S., & Krasnow, R. (2025). The Dynamic Relationship of Forks with Their Upstream Repository. *rOpenSci*. <https://doi.org/10.59350/5n1pv-3sg04>.
+
+Krasnow, R. (2022). Reviving lobster pounds as oyster farms. *The Working Waterfront*. <https://www.islandinstitute.org/working-waterfront/reviving-lobster-pounds-as-oyster-farms/>
 
 ## Presentations
 
