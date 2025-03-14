@@ -2,23 +2,25 @@
   title: "Publications"
 ---
 
-Krasnow, R. (2025). Making partial differential equations accessible to ecologists. *Nature Reviews Biodiversity*, *1*, 87–87. <https://doi.org/10.1038/s44358-025-00017-0>
+Krasnow, R., Kiffney, T., Coleman, S., Cuddy, R., & Brady, D. (2025). Interacting effects of environment and cultivation method on biofouling of farmed oysters (*Crassostrea virginica*). *Journal of the World Aquaculture Society*, *in press.*
+
+Krasnow, R. (2025). Making partial differential equations accessible to ecologists. *Nature Reviews Biodiversity*, *1*, 87–87. <https://doi.org/10.1038/s44358-025-00017-0> ([full text link](https://rdcu.be/eacVm))
 
 Chammout, H., Adkins, D. L., Al-Olimat, A. K., …, Krasnow, R., … & Kagey, J. D. (2024). G.3.2 is a novel allele of the gene connector enhancer of ksr (cnk) in Drosophila melanogaster. *microPublication Biology*. <https://doi.org/10.17912/micropub.biology.001290>
 
 Krasnow, R., Gonzalez, S., & Lindell, S. (2024). Improving growth models of cultivated sugar kelp, Saccharina latissima, by accounting for intraspecific variation in thermal tolerance. *Journal of the World Aquaculture Society*, *55*(5), e13085. <https://doi.org/10.1111/jwas.13085>
 
-Krasnow, R., Kiffney, T., Coleman, S., Cuddy, R., & Brady, D. Interacting effects of environment and cultivation method on biofouling of farmed oysters (*Crassostrea virginica*). *In revision,* Journal of the World Aquaculture Society.
-
-Krasnow, R., Kaufman, L., & Deyle, E. A holistic approach to modeling the growing fishery for Jonah crab (*Cancer borealis*) in the Gulf of Maine. *In revision,* Fish & Fisheries.
+Krasnow, R., Kaufman, L., & Deyle, E. A holistic approach to modeling the growing fishery for Jonah crab (*Cancer borealis*) in the Gulf of Maine. *In review,* *Fish & Fisheries*.
 
 Krasnow, R., Kiffney, T., Cuddy, R., & Brady, D. Quantifying oyster aquaculture lease acceptance: a case study on repurposed Maine lobster pounds. *In review,* Aquaculture Reports.
 
 ## Magazine Articles & Blog Posts
 
-Krasnow, R. (2025). A Tasty Enigma. *The Marine Biologist*, 33, 12–16. (<https://www.mba.ac.uk/our-membership/our-magazine/>) 
+Peters, J., Lewis, A., Wilson, A., Kowalski, C., Brookson, C. B., Koren, G., Moustahfid, H., O’Grady, H., McLachlan, J., Zobitz, J., Lofton, M., Krasnow, R., & Sabet, S. S. (2025). Resources for Reviewing Code. *Ecological Forecasting Initiative*. [https://ecoforecast.org/resources-for-reviewing-code](https://ecoforecast.org/resources-for-reviewing-code/)
 
 Gruson, H., Butland, S., & Krasnow, R. (2025). The Dynamic Relationship of Forks with Their Upstream Repository. *rOpenSci*. <https://doi.org/10.59350/5n1pv-3sg04>.
+
+Krasnow, R. (2025). A Tasty Enigma. *The Marine Biologist*, 33, 12–16. <https://www.mba.ac.uk/our-membership/our-magazine/>
 
 Krasnow, R. (2022). Reviving lobster pounds as oyster farms. *The Working Waterfront*. <https://www.islandinstitute.org/working-waterfront/reviving-lobster-pounds-as-oyster-farms/>
 

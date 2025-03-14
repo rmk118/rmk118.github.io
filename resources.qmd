@@ -6,11 +6,11 @@ These are documents and spreadsheets I have created for myself to keep track of 
 
 Acknowledgement would always be welcome if you use these resources while preparing a manuscript, presentation, or other research product, but mostly I would just want to hear about the project! I am always looking to connect with people doing any sort of marine science, quantitative ecology, or applied data science, and I would love to talk about possible opportunities for collaboration.
 
-### General Resource Lists
+### List of resources
 
 This document is my [general "Resources" catch-all,](https://docs.google.com/document/d/1E9UgTfEbDLPmLYCFdKHk1VEAPRffNQN5_mK38vRWmo0/edit?usp=sharing) primarily focused on sites that I have found helpful when self-teaching concepts in R or general modeling/stats/data science.
 
-This [Data Sources & Tools](https://docs.google.com/document/d/1ymJEjSLO0InMS4XKCxf5qN7RJjjPcwYyzzeayQGFzPI/edit?usp=sharing) document is more focused on sources of raw data for analysis, but the "To be classified" section at the bottom also includes links to more instructional sites, reference documents, etc.
+<!-- This [Data Sources & Tools](https://docs.google.com/document/d/1ymJEjSLO0InMS4XKCxf5qN7RJjjPcwYyzzeayQGFzPI/edit?usp=sharing) document is more focused on sources of raw data for analysis, but the "To be classified" section at the bottom also includes links to more instructional sites, reference documents, etc. -->
 
 ### R packages
 
@@ -21,5 +21,3 @@ The [CRAN Task Views](https://cran.r-project.org/web/views/) are an amazing plac
 ### Journals
 
 [This is a Google sheet containing a list of journals](https://docs.google.com/spreadsheets/d/1n9ZFF5Ly2pTv8vZCwCjUSlpPPoCGFotpNwNNpyMa0Us/edit?usp=sharing) that publish papers related to my areas of research. I have generally tried to exclude journals/publishers known to be predatory or egregiously exploit authors and/or reviewers, but have not rigorously checked them (e.g., using criteria suggested [here](https://guides.lib.odu.edu/publish/predatory) or [here](https://mdanderson.libanswers.com/faq/405538)).
-
-<!--# Meta-analysis -->

@@ -1,0 +1,87 @@
+---
+title: "Open Science"
+linkcolor: "#2b4e55"
+---
+
+I am passionate about open science and FAIR data, and try to align my scientific work with collaborative practices that are reproducible, transparent, inclusive, and kind (the [Openscapes Approach](https://openscapes.github.io/approach-guide/)). Part of my graduate thesis involves developing an open source R package ([morphmat](https://github.com/rmk118/morphmat)) and I am always excited to contribute to open source software and connect with others who frequently work on similar projects.
+
+## My engagement with open science
+
+-   Volunteer on the fundraising committee for the Society for Open, Reliable, and Transparent Ecology and Evolutionary biology ([SORTEE](https://www.sortee.org/))
+-   Data & Code Editor for PCI Ecology and PCI Evolutionary Biology (part of the [Peer Community In](https://peercommunityin.org/) community)
+-   Peer reviewer for the [Journal of Open Source Software](https://joss.theoj.org/), a diamond open access journal for research software packages
+
+## Open Science Resources
+
+### General open science & reproducibility
+
+-   [Openscapes Approach Guide](https://openscapes.github.io/approach-guide/) 
+-   [The Turing Way](https://book.the-turing-way.org/): comprehensive online book/guide
+-   [Building reproducible analytical pipelines with R](https://raps-with-r.dev/) (book by Bruno Rodrigues, 2023)
+-   <https://www.repro4everyone.org/resources> 
+-   [Opensciency - A core open science curriculum](https://opensciency.github.io/sprint-content/)
+-   <https://www.oercommons.org>; [Open Scholarship Knowledge Base](https://www.oercommons.org/hubs/OSKB)
+-   [NMFS Open Science Resource Book](https://github.com/nmfs-opensci/ResourceBook)
+    -   [Best Coding Practices in R](https://nmfs-opensci.github.io/ResourceBook/content/best_practices_coding/best_practices_r.html)
+-   [Open Access Button](https://openaccessbutton.org/)
+-   [SORTEE resources](https://www.sortee.org/other_resources/)
+-   [OpenAlex](https://openalex.org/) (open access score for researchers)
+-   [Our Curriculum \| Open Climate Science for Agriculture](https://openclimatescience.github.io/curriculum) 
+-   [ESIIL learning portal: Open Reproducible Science](https://cu-esiil-edu.github.io/esiil-learning-portal/shortcourse/pages/01-reproducible-science-tools/open-reproducible-science/01-intro.html) 
+    -   [Tools for Open and Reproducible Science](https://cu-esiil.github.io/pre-innovation-summit-training/3_Tools_for_reproducible_and_open_science/openscience/) 
+    -   [How To Organize Your Project: Best Practices for Open Reproducible Science](https://cu-esiil-edu.github.io/esiil-learning-portal/stars/pages/01-reproducible-science-tools/open-reproducible-science/03-best-practices.html)
+
+### Git/GitHub
+
+-   ​​[Happy Git and GitHub for the useR (book](https://happygitwithr.com/)) 
+-   [GitHub Skills](https://skills.github.com/) 
+-   [GitHub Good Practices (NMFS-OpenSci)](https://nmfs-opensci.github.io/GitHub-Guide/) mostly NOAA-specific
+    -   [Practical R+Git Workflow materials](https://rverse-tutorials.github.io/RWorkflow-NWFSC-2022/) (NMFS Open Science)
+    -   [NOAA Fisheries Integrated Toolbox GitHub Resources](https://noaa-fisheries-integrated-toolbox.github.io/resources/tags/#github)
+
+### FAIR data & data management
+
+#### FAIR data
+
+-   [How to make your data FAIR \| OpenAIRE](https://www.openaire.eu/how-to-make-your-data-fair) 
+-   [The FAIR Cookbook](https://faircookbook.elixir-europe.org/content/home.html)
+-   [Preparing FAIR data for reuse and reproducibility](https://data.research.cornell.edu/data-management/sharing/fair/) 
+-   [FAIR Cheat Sheets: to publish your research data and software FAIR](https://www.uu.nl/en/research/research-data-management/tools/fair-cheatsheets-to-publish-your-research-data-and-software-fair)
+-   [Nine simple ways to make it easier to (re)use your data](https://ojs.library.queensu.ca/index.php/IEE/article/view/4608)
+-   [How to Make a Data Dictionary](https://help.osf.io/article/217-how-to-make-a-data-dictionary)
+-   [Tabular strategies for metadata in ecology, evolution, and the environmental sciences](https://doi.org/10.1002/ece3.9245)
+-   [Australian Research Data Hub - Resources](https://ardc.edu.au/resource-hub/)
+    -   [Making Data FAIR \| ARDC](https://ardc.edu.au/resource-hub/making-data-fair/) 
+-   [Data Mobilization/Darwin Core workshop](https://ioos.github.io/mbon_data_workshop_2025/index.html) (MBON)
+
+### Data management plans
+
+-   [Primer on Data Management: What you always wanted to know](https://doi.org/10.5060/D2251G48) 
+-   [Ten Simple Rules for Creating a Good Data Management Plan](https://doi.org/10.1371/journal.pcbi.1004525)
+-   [MIT OpenCourseWare Data Management](https://ocw.mit.edu/courses/res-str-002-data-management-spring-2016/)
+    -   [Write a data management plan \| MIT](https://libraries.mit.edu/data-management/plan/write/) 
+-   [Guidelines for Effective Data Management Plans](http://www.icpsr.umich.edu/icpsrweb/content/datamanagement/dmp/index.html)
+-   [Data Management Plan Resources and Examples (ICPSR)](http://www.icpsr.umich.edu/icpsrweb/content/datamanagement/dmp/resources.html): Framework for creating a plan and links to examples of data management plans in various scientific disciplines
+-   [Example Plans](https://www.lib.umn.edu/datamanagement/dmp-examples-umn-researchers) (University of Minnesota)
+-   [Management of NOAA Data and Information: Data Management Handbook](https://nosc.noaa.gov/EDMC/data-management-handbook.php) (NAO 212-15B)
+    -   [NOAA Data Management Plan template](https://www.fisheries.noaa.gov/inportserve/waf/noaa/nos/co-ops/dmp/pdf/69283.pdf)
+    -   [Guidelines for Data Management Plans Templates and Examples for the NOAA Restoration Center](https://www.michiganseagrant.org/wp-content/uploads/2023/12/Data-Management-Plan.pdf) 
+    -   [NOAA OCM Data Management and Sharing Plan Review Form](https://doa.wi.gov/DIR/Coastal_NOAA-Data-Management-Form.pdf) 
+-   [eCommons: Cornell's Digital Repository: Metadata tips](https://guides.library.cornell.edu/ecommons/metadata) 
+-   [OER Commons Data Management course](https://oercommons.org/courses/data-management) 
+-   [Writing a data management (and sharing) plan](https://data.research.cornell.edu/data-management/planning/data-management-plan/) 
+-   [Data Management Plans - Research Guides at University of Michigan Library](https://guides.lib.umich.edu/engin-dmp) 
+    -   [Data Management Plan Resources and Examples](https://www.icpsr.umich.edu/web/pages/datamanagement/dmp/resources.html) (UMich) 
+-   [British Ecological Society Guide to Data Management](https://www.britishecologicalsociety.org/wp-content/uploads/2019/06/BES-Guide-Data-Management-2019.pdf) 
+-   [Research Data Management cheat sheets](https://researchdata.unibas.ch/fileadmin/user_upload/researchdata/FastGuide_v1_print_1_.pdf) 
+
+#### Ecological Metadata Language (EML)
+
+-   [Ecological Metadata Language (EML) Specification](https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/index.html) 
+-   [Read and Write Ecological Metadata Language Files • EML](https://docs.ropensci.org/EML/index.html) (rOpenSci)
+    -   [EML R package overview • LivingNorwayR](https://livingnorway.github.io/LivingNorwayR/articles/EML_R_packages_overview.html) 
+-   <https://eml.ecoinformatics.org/eml-schema> 
+-   [Understand the EML schema \| NCEAS Data Team Reference Guide](https://nceas.github.io/datateam-training/reference/understand-the-eml-schema.html) 
+-   <https://nceas.github.io/datateam-training/reference/edit-attributelists.html> 
+-   [Creating Metadata for Publication](https://edirepository.org/resources/creating-metadata-for-publication#the-ecological-metadata-language-eml) \| EML 
+-   [Standard Units for EML 2.2.0](https://sbclter.msi.ucsb.edu/external/InformationManagement/EDI/units/EML_units_preferred.html)
