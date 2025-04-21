@@ -15,8 +15,8 @@ I am passionate about open science and FAIR data, and try to align my scientific
 
 ### General open science & reproducibility
 
+-   [**The Turing Way**](https://book.the-turing-way.org/)**: comprehensive online book/guide**
 -   [Openscapes Approach Guide](https://openscapes.github.io/approach-guide/) 
--   [The Turing Way](https://book.the-turing-way.org/): comprehensive online book/guide
 -   [Building reproducible analytical pipelines with R](https://raps-with-r.dev/) (book by Bruno Rodrigues, 2023)
 -   <https://www.repro4everyone.org/resources> 
 -   [Opensciency - A core open science curriculum](https://opensciency.github.io/sprint-content/)
@@ -25,11 +25,13 @@ I am passionate about open science and FAIR data, and try to align my scientific
     -   [Best Coding Practices in R](https://nmfs-opensci.github.io/ResourceBook/content/best_practices_coding/best_practices_r.html)
 -   [Open Access Button](https://openaccessbutton.org/)
 -   [SORTEE resources](https://www.sortee.org/other_resources/)
+    -   [SORTEE Zotero library of open science papers](https://www.zotero.org/groups/4950812/sortee_open_science_resources/library)
 -   [OpenAlex](https://openalex.org/) (open access score for researchers)
 -   [Our Curriculum \| Open Climate Science for Agriculture](https://openclimatescience.github.io/curriculum) 
 -   [ESIIL learning portal: Open Reproducible Science](https://cu-esiil-edu.github.io/esiil-learning-portal/shortcourse/pages/01-reproducible-science-tools/open-reproducible-science/01-intro.html) 
     -   [Tools for Open and Reproducible Science](https://cu-esiil.github.io/pre-innovation-summit-training/3_Tools_for_reproducible_and_open_science/openscience/) 
     -   [How To Organize Your Project: Best Practices for Open Reproducible Science](https://cu-esiil-edu.github.io/esiil-learning-portal/stars/pages/01-reproducible-science-tools/open-reproducible-science/03-best-practices.html)
+-   Ecological Forecasting Initiative: [Resources for Reviewing Code](https://ecoforecast.org/resources-for-reviewing-code/)
 
 ### Git/GitHub
 
