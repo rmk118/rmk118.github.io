@@ -2,7 +2,7 @@
   title: "Publications"
 ---
 
-Krasnow, R., Kiffney, T., Coleman, S., Cuddy, R., & Brady, D. (2025). Interacting effects of environment and cultivation method on biofouling of farmed oysters (*Crassostrea virginica*). *Journal of the World Aquaculture Society*, *in press.*
+Krasnow, R., Kiffney, T., Coleman, S., Cuddy, R., & Brady, D. (2025). Interacting effects of environment and cultivation method on biofouling of farmed oysters (*Crassostrea virginica*). *Journal of the World Aquaculture Society*, *56*(3), e70012. [https://doi.org/10.1111/jwas.70012](#0)
 
 Krasnow, R. (2025). Making partial differential equations accessible to ecologists. *Nature Reviews Biodiversity*, *1*, 87–87. <https://doi.org/10.1038/s44358-025-00017-0> ([full text link](https://rdcu.be/eacVm))
 
@@ -25,6 +25,10 @@ Krasnow, R. (2025). A Tasty Enigma. *The Marine Biologist*, 33, 12–16. <https:
 Krasnow, R. (2022). Reviving lobster pounds as oyster farms. *The Working Waterfront*. <https://www.islandinstitute.org/working-waterfront/reviving-lobster-pounds-as-oyster-farms/>
 
 ## Presentations
+
+Krasnow, R. (2025). `morphmat`: An R Package to Estimate Crustacean Size at Maturity. Oral presentation. *UMaine* *School of Marine Sciences Graduate Symposium*, Walpole, ME.
+
+Krasnow, R. & Shank, B. (2024). Modeling spatial variation in Jonah crab (*Cancer borealis*) size at maturity. Poster. *American Fisheries Society Annual Meeting*, Honolulu, HI
 
 Krasnow, R. & Shank, B. (2024). Modeling spatial variation in Jonah crab (*Cancer borealis*) size at maturity. Poster. *Ecological Society of America Annual Meeting*, Long Beach, CA
 

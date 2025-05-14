@@ -32,6 +32,7 @@ I am passionate about open science and FAIR data, and try to align my scientific
     -   [Tools for Open and Reproducible Science](https://cu-esiil.github.io/pre-innovation-summit-training/3_Tools_for_reproducible_and_open_science/openscience/) 
     -   [How To Organize Your Project: Best Practices for Open Reproducible Science](https://cu-esiil-edu.github.io/esiil-learning-portal/stars/pages/01-reproducible-science-tools/open-reproducible-science/03-best-practices.html)
 -   Ecological Forecasting Initiative: [Resources for Reviewing Code](https://ecoforecast.org/resources-for-reviewing-code/)
+-   [Reproducible Research with R & RStudio](https://christophergandrud.github.io/RepResR-RStudio/), 2nd Edition (Christopher Gandrud)
 
 ### Git/GitHub
 
@@ -45,6 +46,7 @@ I am passionate about open science and FAIR data, and try to align my scientific
 
 #### FAIR data
 
+-   [ESIP Biological Data Cluster (BDS) Primer Guide](https://esipfed.github.io/bds-primer-best-practices/)
 -   [How to make your data FAIR \| OpenAIRE](https://www.openaire.eu/how-to-make-your-data-fair) 
 -   [The FAIR Cookbook](https://faircookbook.elixir-europe.org/content/home.html)
 -   [Preparing FAIR data for reuse and reproducibility](https://data.research.cornell.edu/data-management/sharing/fair/) 
@@ -55,6 +57,9 @@ I am passionate about open science and FAIR data, and try to align my scientific
 -   [Australian Research Data Hub - Resources](https://ardc.edu.au/resource-hub/)
     -   [Making Data FAIR \| ARDC](https://ardc.edu.au/resource-hub/making-data-fair/) 
 -   [Data Mobilization/Darwin Core workshop](https://ioos.github.io/mbon_data_workshop_2025/index.html) (MBON)
+-   [Interoperable - FAIR Data - LibGuides at UCD Library](https://libguides.ucd.ie/FAIR/interoperable)
+-   [FAIR in ML & AI-ready data, & AI Reproducibility](https://www.farr-rcn.org/resources)
+-   [EarthCube FAIR training materials](https://www.earthcube.org/fair-training-materials)
 
 ### Data management plans
 
