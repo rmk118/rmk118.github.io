@@ -21,18 +21,19 @@ about:
       text: "{{< fa brands strava >}} Strava"
     - href: https://bsky.app/profile/rubyk.bsky.social
       text: "{{< fa brands bluesky >}} Bluesky"
-      
 ---
 
 ::: {#header}
 ## Welcome!
 
-My name is Ruby Krasnow *(she/her)* and I am a quantitative marine ecologist focused on using modeling and data science to support sustainable fisheries management and marine aquaculture.
+My name is Ruby Krasnow *(she/her)* and I am a quantitative marine ecologist focused on using mathematical modeling and data science to support sustainable fisheries management and marine aquaculture.
+
+You can find my full CV [here](Krasnow_CV_for_web_2025-08-11.pdf).
 :::
 
 ## Education
 
-I am a first-year Ph.D. student studying Marine Biology at the University of Maine. My primary advisor is Dr. Damian Brady, who leads a large lab group focused on [Marine Sciences of Aquaculture, Fisheries, and Renewable Energy](https://umaine.edu/bradylab/). I have been working with the Brady lab since 2022 and am thrilled to continue my education as a member of such an exciting, collaborative, and passionate group of researchers.
+I am a Ph.D. student studying Marine Biology at the University of Maine. My primary advisor is Dr. Damian Brady, who leads a large lab group focused on [Marine Sciences of Aquaculture, Fisheries, and Renewable Energy](https://umaine.edu/bradylab/). I have been working with the Brady lab since 2022 and am thrilled to continue my education as a member of such an exciting, collaborative, and passionate group of researchers.
 
 **B.A., Biology** - Clark University, Worcester, MA \| Dec. 2024
 
