@@ -14,6 +14,10 @@ Krasnow, R., Kaufman, L., & Deyle, E. Making the most of available data: a case 
 
 Krasnow, R., Kiffney, T., Coleman, S., Cuddy, R., & Brady, D. Quantifying oyster aquaculture lease acceptance: a case study on repurposed Maine lobster pounds. *In press,* *Aquaculture Reports*.
 
+## Preprints
+
+Pick, J. L., Allen, B., Bachelot, B., Bairos-Novak, K. R., Brand, J. A., Class, B. A., Dallas, T., D’Amelio, P. B., Fenollosa, E., Fernández-Juricic, E., Gomes, D. G. E., Grainger, M., Guillemaud, T., John, C., Krasnow, R., Lagisz, M., Lequime, S., … Ivimey-Cook, E. R. (2025). *The SORTEE Guidelines for Data and Code Quality Control in Ecology and Evolutionary Biology*. EcoEvoRxiv. <https://doi.org/10.32942/X24P8S>
+
 ## Magazine Articles & Blog Posts
 
 Peters, J., Lewis, A., Wilson, A., Kowalski, C., Brookson, C. B., Koren, G., Moustahfid, H., O’Grady, H., McLachlan, J., Zobitz, J., Lofton, M., Krasnow, R., & Sabet, S. S. (2025). Resources for Reviewing Code. *Ecological Forecasting Initiative*. [https://ecoforecast.org/resources-for-reviewing-code](https://ecoforecast.org/resources-for-reviewing-code/)

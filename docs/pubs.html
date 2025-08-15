@@ -147,7 +147,8 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#magazine-articles-blog-posts" id="toc-magazine-articles-blog-posts" class="nav-link active" data-scroll-target="#magazine-articles-blog-posts">Magazine Articles &amp; Blog Posts</a></li>
+  <li><a href="#preprints" id="toc-preprints" class="nav-link active" data-scroll-target="#preprints">Preprints</a></li>
+  <li><a href="#magazine-articles-blog-posts" id="toc-magazine-articles-blog-posts" class="nav-link" data-scroll-target="#magazine-articles-blog-posts">Magazine Articles &amp; Blog Posts</a></li>
   <li><a href="#presentations" id="toc-presentations" class="nav-link" data-scroll-target="#presentations">Presentations</a></li>
   </ul>
 </nav>
@@ -180,6 +181,10 @@ ul.task-list li input[type="checkbox"] {
 <p>Krasnow, R., Gonzalez, S., &amp; Lindell, S. (2024). Improving growth models of cultivated sugar kelp, Saccharina latissima, by accounting for intraspecific variation in thermal tolerance. <em>Journal of the World Aquaculture Society</em>, <em>55</em>(5), e13085. <a href="https://doi.org/10.1111/jwas.13085" class="uri">https://doi.org/10.1111/jwas.13085</a></p>
 <p>Krasnow, R., Kaufman, L., &amp; Deyle, E. Making the most of available data: a case study of converging analyses to model an emerging fishery for Jonah crab (<em>Cancer borealis</em>). <em>In press,</em> <em>Fish &amp; Fisheries</em>.</p>
 <p>Krasnow, R., Kiffney, T., Coleman, S., Cuddy, R., &amp; Brady, D. Quantifying oyster aquaculture lease acceptance: a case study on repurposed Maine lobster pounds. <em>In press,</em> <em>Aquaculture Reports</em>.</p>
+<section id="preprints" class="level2">
+<h2 class="anchored" data-anchor-id="preprints">Preprints</h2>
+<p>Pick, J. L., Allen, B., Bachelot, B., Bairos-Novak, K. R., Brand, J. A., Class, B. A., Dallas, T., D’Amelio, P. B., Fenollosa, E., Fernández-Juricic, E., Gomes, D. G. E., Grainger, M., Guillemaud, T., John, C., Krasnow, R., Lagisz, M., Lequime, S., … Ivimey-Cook, E. R. (2025). <em>The SORTEE Guidelines for Data and Code Quality Control in Ecology and Evolutionary Biology</em>. EcoEvoRxiv. <a href="https://doi.org/10.32942/X24P8S" class="uri">https://doi.org/10.32942/X24P8S</a></p>
+</section>
 <section id="magazine-articles-blog-posts" class="level2">
 <h2 class="anchored" data-anchor-id="magazine-articles-blog-posts">Magazine Articles &amp; Blog Posts</h2>
 <p>Peters, J., Lewis, A., Wilson, A., Kowalski, C., Brookson, C. B., Koren, G., Moustahfid, H., O’Grady, H., McLachlan, J., Zobitz, J., Lofton, M., Krasnow, R., &amp; Sabet, S. S. (2025). Resources for Reviewing Code. <em>Ecological Forecasting Initiative</em>. <a href="https://ecoforecast.org/resources-for-reviewing-code/">https://ecoforecast.org/resources-for-reviewing-code</a></p>
@@ -295,7 +300,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/rmk118\.github\.io\/");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
