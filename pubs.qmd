@@ -4,15 +4,15 @@
 
 Krasnow, R., Kiffney, T., Cuddy, R., & Brady, D. (2025). Interacting effects of environment and cultivation method on biofouling of farmed oysters (*Crassostrea virginica*). *Journal of the World Aquaculture Society*, *56*(3), e70012. <https://doi.org/10.1111/jwas.70012>
 
-Krasnow, R. (2025). Making partial differential equations accessible to ecologists. *Nature Reviews Biodiversity*, *1*, 87–87. <https://doi.org/10.1038/s44358-025-00017-0> ([full text link](https://rdcu.be/eacVm))
+Krasnow, R., Kaufman, L., & Deyle, E. (2025). Making the most of available data: A case study of converging analyses to model an emerging fishery for Jonah crab (*Cancer borealis*). *Fish & Fisheries*. <https://doi.org/10.1111/faf.70011>
 
-Krasnow, R., Kaufman, L., & Deyle, E. Making the most of available data: a case study of converging analyses to model an emerging fishery for Jonah crab (*Cancer borealis*). *Fish & Fisheries*. <https://doi.org/10.1111/faf.70011>
+Krasnow, R., Kiffney, T., Coleman, S., Cuddy, R., & Brady, D. (2025). Quantifying oyster aquaculture lease acceptance: A case study on repurposed Maine lobster pounds. *Aquaculture Reports, 44,* 103067. <https://doi.org/10.1016/j.aqrep.2025.103067>
+
+Krasnow, R. (2025). Making partial differential equations accessible to ecologists. *Nature Reviews Biodiversity*, *1*, 87–87. <https://doi.org/10.1038/s44358-025-00017-0> ([full text link](https://rdcu.be/eacVm))
 
 Chammout, H., Adkins, D. L., Al-Olimat, A. K., …, Krasnow, R., … & Kagey, J. D. (2024). G.3.2 is a novel allele of the gene connector enhancer of ksr (cnk) in Drosophila melanogaster. *microPublication Biology*. <https://doi.org/10.17912/micropub.biology.001290>
 
 Krasnow, R., Gonzalez, S., & Lindell, S. (2024). Improving growth models of cultivated sugar kelp, Saccharina latissima, by accounting for intraspecific variation in thermal tolerance. *Journal of the World Aquaculture Society*, *55*(5), e13085. <https://doi.org/10.1111/jwas.13085>
-
-Krasnow, R., Kiffney, T., Coleman, S., Cuddy, R., & Brady, D. Quantifying oyster aquaculture lease acceptance: a case study on repurposed Maine lobster pounds. *In press,* *Aquaculture Reports*.
 
 ## Preprints
 
