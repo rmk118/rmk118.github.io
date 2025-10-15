@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.6.39">
+<meta name="generator" content="quarto-1.8.25">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -30,15 +30,17 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-4a6be9f89ac42a5aba41093fbc72e1be.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-3f858f51d789cc6423ba19add66c3508.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
@@ -73,13 +75,15 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed">
+<body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Ruby Krasnow</span>
     </a>
@@ -101,10 +105,6 @@ ul.task-list li input[type="checkbox"] {
   <li class="nav-item">
     <a class="nav-link active" href="./open_science.html" aria-current="page"> 
 <span class="menu-text">Open Science</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./resources.html"> 
-<span class="menu-text">Resources</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
@@ -148,13 +148,17 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#my-engagement-with-open-science" id="toc-my-engagement-with-open-science" class="nav-link active" data-scroll-target="#my-engagement-with-open-science">My engagement with open science</a></li>
-  <li><a href="#open-science-resources" id="toc-open-science-resources" class="nav-link" data-scroll-target="#open-science-resources">Open Science Resources</a>
+  <li><a href="#open-science-resources" id="toc-open-science-resources" class="nav-link" data-scroll-target="#open-science-resources">Open Science Resources</a></li>
+  <li><a href="#fair-data-data-management" id="toc-fair-data-data-management" class="nav-link" data-scroll-target="#fair-data-data-management">FAIR data &amp; data management</a>
   <ul class="collapse">
-  <li><a href="#general-open-science-reproducibility" id="toc-general-open-science-reproducibility" class="nav-link" data-scroll-target="#general-open-science-reproducibility">General open science &amp; reproducibility</a></li>
-  <li><a href="#gitgithub" id="toc-gitgithub" class="nav-link" data-scroll-target="#gitgithub">Git/GitHub</a></li>
-  <li><a href="#fair-data-data-management" id="toc-fair-data-data-management" class="nav-link" data-scroll-target="#fair-data-data-management">FAIR data &amp; data management</a></li>
-  <li><a href="#data-management-plans" id="toc-data-management-plans" class="nav-link" data-scroll-target="#data-management-plans">Data management plans</a></li>
+  <li><a href="#data-management-plans" id="toc-data-management-plans" class="nav-link" data-scroll-target="#data-management-plans">Data management (plans)</a></li>
   </ul></li>
+  <li><a href="#computational-reproducibility" id="toc-computational-reproducibility" class="nav-link" data-scroll-target="#computational-reproducibility">Computational reproducibility</a>
+  <ul class="collapse">
+  <li><a href="#gitgithub" id="toc-gitgithub" class="nav-link" data-scroll-target="#gitgithub"><strong>Git/GitHub</strong></a></li>
+  </ul></li>
+  <li><a href="#organizations-open-science-synthesis-research-etc." id="toc-organizations-open-science-synthesis-research-etc." class="nav-link" data-scroll-target="#organizations-open-science-synthesis-research-etc.">Organizations: Open science, synthesis research, etc.</a></li>
+  <li><a href="#open-access-publishing" id="toc-open-access-publishing" class="nav-link" data-scroll-target="#open-access-publishing">Open access publishing</a></li>
   </ul>
 </nav>
     </div>
@@ -180,367 +184,608 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>I am passionate about open science and FAIR data, and try to align my scientific work with collaborative practices that are reproducible, transparent, inclusive, and kind (the <a href="https://openscapes.github.io/approach-guide/">Openscapes Approach</a>). Part of my graduate thesis involves developing an open source R package (<a href="https://github.com/rmk118/morphmat">morphmat</a>) and I am always excited to contribute to open source software and connect with others who frequently work on similar projects.</p>
-<section id="my-engagement-with-open-science" class="level2">
-<h2 class="anchored" data-anchor-id="my-engagement-with-open-science">My engagement with open science</h2>
+<p>I am passionate about open science and FAIR data, and try to align my scientific work with collaborative practices that are reproducible, transparent, inclusive, and kind (the <a href="https://openscapes.github.io/approach-guide/">Openscapes Approach</a>). My graduate thesis involves developing an open source R package (<a href="https://github.com/rmk118/morphmat">morphmat</a>) and I am always excited to contribute to open source software and connect with others who frequently work on similar projects.</p>
+<section id="my-engagement-with-open-science" class="level1">
+<h1>My engagement with open science</h1>
 <ul>
 <li>Volunteer on the fundraising committee for the Society for Open, Reliable, and Transparent Ecology and Evolutionary biology (<a href="https://www.sortee.org/">SORTEE</a>)</li>
 <li>Data &amp; Code Editor for PCI Ecology and PCI Evolutionary Biology (part of the <a href="https://peercommunityin.org/">Peer Community In</a> community)</li>
 <li>Peer reviewer for the <a href="https://joss.theoj.org/">Journal of Open Source Software</a>, a diamond open access journal for research software packages</li>
 </ul>
 </section>
-<section id="open-science-resources" class="level2">
-<h2 class="anchored" data-anchor-id="open-science-resources">Open Science Resources</h2>
-<section id="general-open-science-reproducibility" class="level3">
-<h3 class="anchored" data-anchor-id="general-open-science-reproducibility">General open science &amp; reproducibility</h3>
+<section id="open-science-resources" class="level1">
+<h1>Open Science Resources</h1>
 <ul>
-<li><a href="https://book.the-turing-way.org/"><strong>The Turing Way</strong></a><strong>: comprehensive online book/guide</strong></li>
-<li><a href="https://openscapes.github.io/approach-guide/">Openscapes Approach Guide</a>&nbsp;</li>
-<li><a href="https://raps-with-r.dev/">Building reproducible analytical pipelines with R</a> (book by Bruno Rodrigues, 2023)</li>
-<li><a href="https://www.repro4everyone.org/resources" class="uri">https://www.repro4everyone.org/resources</a>&nbsp;</li>
+<li><a href="https://book.the-turing-way.org/">The Turing Way</a> comprehensive online book/guide</li>
 <li><a href="https://opensciency.github.io/sprint-content/">Opensciency - A core open science curriculum</a></li>
-<li><a href="https://www.oercommons.org" class="uri">https://www.oercommons.org</a>; <a href="https://www.oercommons.org/hubs/OSKB">Open Scholarship Knowledge Base</a></li>
-<li><a href="https://github.com/nmfs-opensci/ResourceBook">NMFS Open Science Resource Book</a>
-<ul>
-<li><a href="https://nmfs-opensci.github.io/ResourceBook/content/best_practices_coding/best_practices_r.html">Best Coding Practices in R</a></li>
-</ul></li>
-<li><a href="https://openaccessbutton.org/">Open Access Button</a></li>
-<li><a href="https://www.sortee.org/other_resources/">SORTEE resources</a>
-<ul>
-<li><a href="https://www.zotero.org/groups/4950812/sortee_open_science_resources/library">SORTEE Zotero library of open science papers</a></li>
-</ul></li>
-<li><a href="https://openalex.org/">OpenAlex</a> (open access score for researchers)</li>
-<li><a href="https://openclimatescience.github.io/curriculum">Our Curriculum | Open Climate Science for Agriculture</a>&nbsp;</li>
+<li><a href="https://carpentries-lab.github.io/good-enough-practices/index.html">Good Enough Practices in Scientific Computing</a> Carpentries curriculum&nbsp;</li>
 <li><a href="https://cu-esiil-edu.github.io/esiil-learning-portal/shortcourse/pages/01-reproducible-science-tools/open-reproducible-science/01-intro.html">ESIIL learning portal: Open Reproducible Science</a>&nbsp;
 <ul>
 <li><a href="https://cu-esiil.github.io/pre-innovation-summit-training/3_Tools_for_reproducible_and_open_science/openscience/">Tools for Open and Reproducible Science</a>&nbsp;</li>
 <li><a href="https://cu-esiil-edu.github.io/esiil-learning-portal/stars/pages/01-reproducible-science-tools/open-reproducible-science/03-best-practices.html">How To Organize Your Project: Best Practices for Open Reproducible Science</a></li>
 </ul></li>
-<li>Ecological Forecasting Initiative: <a href="https://ecoforecast.org/resources-for-reviewing-code/">Resources for Reviewing Code</a></li>
-<li><a href="https://christophergandrud.github.io/RepResR-RStudio/">Reproducible Research with R &amp; RStudio</a>, 2nd Edition (Christopher Gandrud)</li>
-</ul>
-</section>
-<section id="gitgithub" class="level3">
-<h3 class="anchored" data-anchor-id="gitgithub">Git/GitHub</h3>
+<li><a href="https://openscapes.github.io/series/">Openscapes Champions Lesson Series</a>; <a href="https://openscapes.org/resources" class="uri">https://openscapes.org/resources</a>&nbsp;</li>
+<li><a href="https://github.com/nmfs-opensci/ResourceBook">NMFS Open Science Resource Book</a></li>
+<li><a href="https://www.sortee.org/other_resources/">SORTEE resources</a>
 <ul>
-<li>​​<a href="https://happygitwithr.com/">Happy Git and GitHub for the useR (book</a>)&nbsp;</li>
-<li><a href="https://skills.github.com/">GitHub Skills</a>&nbsp;</li>
-<li><a href="https://nmfs-opensci.github.io/GitHub-Guide/">GitHub Good Practices (NMFS-OpenSci)</a> mostly NOAA-specific
-<ul>
-<li><a href="https://rverse-tutorials.github.io/RWorkflow-NWFSC-2022/">Practical R+Git Workflow materials</a> (NMFS Open Science)</li>
-<li><a href="https://noaa-fisheries-integrated-toolbox.github.io/resources/tags/#github">NOAA Fisheries Integrated Toolbox GitHub Resources</a></li>
+<li><a href="https://osf.io/j92mx/files/osfstorage">SORTEE Workshop and Webinar series resources on OSF</a>&nbsp;</li>
+<li><a href="https://cecibaldoni.quarto.pub/introduction-to-reproducible-coding-environment/#/title-slide">Reproducible Environments in R slides</a></li>
 </ul></li>
+<li><a href="https://www.oercommons.org">OER Commons</a>; <a href="https://www.oercommons.org/hubs/OSKB">Open Scholarship Knowledge Base</a></li>
+<li><a href="https://openclimatescience.github.io/curriculum">Our Curriculum | Open Climate Science for Agriculture</a>&nbsp;</li>
+<li><a href="https://interoperable-europe.ec.europa.eu/eu-oss-catalogue">EU Open Source Solutions Catalogue</a>&nbsp;&nbsp;</li>
+<li><a href="https://www.zbw-mediatalk.eu/2025/05/teaching-open-science-slide-set-supports-lecturers/">Teaching Open Science: Slide Set | ZBW MediaTalk</a>&nbsp;</li>
+<li><a href="https://doi.org/10.1525/collabra.18684">Easing Into Open Science: A Guide for Graduate Students and Their Advisors</a></li>
+<li><a href="https://foss.cyverse.org/">CyVerse Foundational Open Science Skills curriculum/roadmap</a></li>
+<li><a href="https://www.osc.uni-muenchen.de/toolbox/index.html">Toolbox - Open Science Center - LMU Munich</a>&nbsp;</li>
+<li><a href="https://www.lib.uiowa.edu/data/">Research Data Services - University of Iowa Libraries</a>&nbsp;</li>
+<li><a href="https://www.zotero.org/groups/361046/research_data_management_services/library">Sherry Lake’s Zotero library of data management resources</a></li>
 </ul>
 </section>
-<section id="fair-data-data-management" class="level3">
-<h3 class="anchored" data-anchor-id="fair-data-data-management">FAIR data &amp; data management</h3>
-<section id="fair-data" class="level4">
-<h4 class="anchored" data-anchor-id="fair-data">FAIR data</h4>
+<section id="fair-data-data-management" class="level1">
+<h1>FAIR data &amp; data management</h1>
+<p>FAIR data: <a href="https://www.go-fair.org/fair-principles/" class="uri">https://www.go-fair.org/fair-principles/</a>&nbsp;</p>
 <ul>
 <li><a href="https://esipfed.github.io/bds-primer-best-practices/">ESIP Biological Data Cluster (BDS) Primer Guide</a></li>
 <li><a href="https://www.openaire.eu/how-to-make-your-data-fair">How to make your data FAIR | OpenAIRE</a>&nbsp;</li>
+<li><a href="https://www.uu.nl/en/research/research-data-management/guides/how-to-make-your-data-fair">The FAIR principles - Research Data Management Support - Utrecht University</a>&nbsp;</li>
 <li><a href="https://faircookbook.elixir-europe.org/content/home.html">The FAIR Cookbook</a></li>
-<li><a href="https://data.research.cornell.edu/data-management/sharing/fair/">Preparing FAIR data for reuse and reproducibility</a>&nbsp;</li>
+<li><a href="https://data.research.cornell.edu/data-management/sharing/fair/">Preparing FAIR data for reuse and reproducibility</a> (includes FAIR checklist)</li>
 <li><a href="https://www.uu.nl/en/research/research-data-management/tools/fair-cheatsheets-to-publish-your-research-data-and-software-fair">FAIR Cheat Sheets: to publish your research data and software FAIR</a></li>
 <li><a href="https://ojs.library.queensu.ca/index.php/IEE/article/view/4608">Nine simple ways to make it easier to (re)use your data</a></li>
-<li><a href="https://help.osf.io/article/217-how-to-make-a-data-dictionary">How to Make a Data Dictionary</a></li>
-<li><a href="https://doi.org/10.1002/ece3.9245">Tabular strategies for metadata in ecology, evolution, and the environmental sciences</a></li>
+<li><a href="https://www.teaguehenry.com/strings-not-factors/2021/2/21/eight-principles-of-good-data-management">Eight Principles of Good Data Management</a></li>
 <li><a href="https://ardc.edu.au/resource-hub/">Australian Research Data Hub - Resources</a>
 <ul>
 <li><a href="https://ardc.edu.au/resource-hub/making-data-fair/">Making Data FAIR | ARDC</a>&nbsp;</li>
+<li><a href="https://ardc.edu.au/resource/fair-data-self-assessment-tool/" class="uri">https://ardc.edu.au/resource/fair-data-self-assessment-tool/</a>&nbsp;</li>
 </ul></li>
 <li><a href="https://ioos.github.io/mbon_data_workshop_2025/index.html">Data Mobilization/Darwin Core workshop</a> (MBON)</li>
-<li><a href="https://libguides.ucd.ie/FAIR/interoperable">Interoperable - FAIR Data - LibGuides at UCD Library</a></li>
-<li><a href="https://www.farr-rcn.org/resources">FAIR in ML &amp; AI-ready data, &amp; AI Reproducibility</a></li>
+<li><a href="https://libguides.ucd.ie/FAIR/interoperable">Interoperable - FAIR Data - LibGuides at UCD Library</a>&nbsp;</li>
+<li><a href="https://www.farr-rcn.org/resources">FAIR in ML, AI-ready data, &amp; Reproducibility</a></li>
 <li><a href="https://www.earthcube.org/fair-training-materials">EarthCube FAIR training materials</a></li>
-</ul>
-</section>
-</section>
-<section id="data-management-plans" class="level3">
-<h3 class="anchored" data-anchor-id="data-management-plans">Data management plans</h3>
+<li><a href="https://www.fair2.ai/">FAIR²</a></li>
+<li><a href="https://www.nature.com/documents/nr-reporting-summary-flat.pdf">Reporting Summary | Nature</a>&nbsp;</li>
+<li><a href="https://library.ethz.ch/en/researching-and-publishing/data-management-and-policies/research-data-management/research-data-life-cycle.html">Research data life cycle - ETH Zurich</a>&nbsp;</li>
+<li>DataONE <a href="https://dataoneorg.github.io/Education/">Data Management Skillbuilding Hub</a></li>
+<li><a href="https://johnborghi.github.io/Supporting_Scientific_Data/">Supporting Scientific Data</a></li>
+<li><a href="https://doi.org/10.7907/rt4k-2d76">Research Data Documentation Methods</a> handout (Briney, 2022)</li>
+<li><a href="https://fairsharing.org/" class="uri">https://fairsharing.org/</a></li>
+<li><a href="https://infoguides.pepperdine.edu/datacuration" class="uri">https://infoguides.pepperdine.edu/datacuration</a></li>
+<li><a href="https://ukdataservice.ac.uk/learning-hub/research-data-management/">Research data management - UK Data Service</a>&nbsp;</li>
+<li>Data versioning
 <ul>
+<li><a href="https://ukdataservice.ac.uk/learning-hub/research-data-management/format-your-data/versioning/">Versioning - UK Data Service</a>&nbsp;</li>
+<li><a href="https://doi.org/10.5281/zenodo.13743875">Recommendations on Data Versioning</a>&nbsp;</li>
+</ul></li>
+<li>Metadata, data dictionaries, &amp; READMEs
+<ul>
+<li><a href="https://libraries.mit.edu/data-management/store/documentation/">Documentation &amp; metadata | MIT Data management</a>&nbsp;</li>
+<li><a href="https://libguides.ucd.ie/data/metadata">Metadata - Research Data Management - LibGuides at UCD Library</a></li>
+<li><a href="https://book.the-turing-way.org/reproducible-research/rdm/rdm-metadata">Documentation and Metadata - The Turing Way</a></li>
+<li><a href="https://www.usgs.gov/data-management/metadata-creation">Metadata Creation | U.S. Geological Survey</a>&nbsp;</li>
+<li>UNC Libraries <a href="https://guides.lib.unc.edu/metadata/basic-elements">Metadata for Data Management: Basic Elements</a>&nbsp;</li>
+<li><a href="https://guides.lib.utexas.edu/metadata-basics/key-concepts">Key Concepts - Metadata Basics - LibGuides at University of Texas at Austin</a>&nbsp;</li>
+<li>Research Guides at University of California Irvine&nbsp;
+<ul>
+<li><a href="https://guides.lib.uci.edu/datamanagement/describe">Describing Data - Research Data Management&nbsp;</a></li>
+</ul></li>
+<li><a href="https://doi.org/10.1002/ece3.9245">Tabular strategies for metadata in ecology, evolution, and the environmental sciences</a>&nbsp;</li>
+<li>Dryad <a href="https://blog.datadryad.org/2025/09/09/whats-in-a-readme-why-your-readme-matters-and-how-to-create-the-best-one-possible/">What’s in a README? Why your README matters</a></li>
+<li>UC Irvine Libraries <a href="https://guides.lib.uci.edu/datamanagement/readme">Research Data Management: README Files</a>&nbsp;</li>
+<li><a href="https://www.lib.uiowa.edu/data/share/metadata/">Metadata - Research Data Services - University of Iowa Libraries</a>&nbsp;
+<ul>
+<li><a href="https://www.lib.uiowa.edu/data/manage/data-structure/">Spreadsheet Data Structure</a>&nbsp;</li>
+</ul></li>
+<li>University of Helsinki <a href="https://doi.org/10.5281/zenodo.1683181">Making a research project understandable - Guide for data documentation</a></li>
+<li>Standards
+<ul>
+<li><a href="http://nsteffel.github.io/dublin_core_generator/">Dublin Core Metadata Generator</a>&nbsp;</li>
+<li><a href="https://geo-data-support.sites.uu.nl/data-management/metadata/">Metadata Standards in the Geosciences</a>&nbsp;</li>
+<li><a href="https://geo-data-support.sites.uu.nl/open-science-open-data/controlled-vocabulary-and-taxonomies/">Controlled Vocabulary and Taxonomies</a>&nbsp;</li>
+<li>Pepperdine <a href="https://infoguides.pepperdine.edu/c.php?g=287502&amp;p=1916453">Managing Data Sets: Metadata Standards</a>&nbsp;</li>
+<li><a href="https://www.usgs.gov/data-management/data-standards">Data Standards | U.S. Geological Survey</a>&nbsp;</li>
+<li>UNC Libraries <a href="https://guides.lib.unc.edu/metadata/standards">Metadata for Data Management: Standards/Schema</a>&nbsp;
+<ul>
+<li><a href="https://guides.lib.unc.edu/metadata/controlled-vocab">Controlled Vocabularies</a>&nbsp;</li>
+</ul></li>
+<li>LibGuides at University of Texas at Austin
+<ul>
+<li><a href="https://guides.lib.utexas.edu/metadata-basics/general-standards">Cross-Disciplinary Standards&nbsp;</a></li>
+<li><a href="https://guides.lib.utexas.edu/metadata-basics/domain-standards">Domain-Specific Standards</a>&nbsp;&nbsp;</li>
+<li><a href="https://guides.lib.utexas.edu/metadata-basics/controlled-vocabs">Controlled Vocabularies</a></li>
+</ul></li>
+<li>Research Data Alliance <a href="https://rdamsc.bath.ac.uk/">Metadata Standards Catalog</a> &amp; <a href="https://rdamsc.bath.ac.uk/tool-index">tool index</a></li>
+</ul></li>
+<li>Harvard Data Management
+<ul>
+<li><a href="https://datamanagement.hms.harvard.edu/collect-analyze/documentation-metadata/data-dictionary">Data Dictionary</a></li>
+<li><a href="https://datamanagement.hms.harvard.edu/collect-analyze/documentation-metadata/readme-files">README Files</a></li>
+</ul></li>
+<li>Cornell Data Services
+<ul>
+<li><a href="https://guides.library.cornell.edu/ecommons/metadata">eCommons: Cornell’s Digital Repository: Metadata tips</a>&nbsp;</li>
+<li><a href="https://data.research.cornell.edu/data-management/sharing/readme/">Writing READMEs for Research Data</a>&nbsp;</li>
+<li><a href="https://data.research.cornell.edu/data-management/sharing/writing-readmes-for-research-code-software/">Writing READMEs for Research Code &amp; Software</a>&nbsp;</li>
+<li><a href="https://cornell.app.box.com/v/ReadmeTemplate" class="uri">https://cornell.app.box.com/v/ReadmeTemplate</a></li>
+</ul></li>
+<li>Data dictionaries
+<ul>
+<li>OSF <a href="https://help.osf.io/article/217-how-to-make-a-data-dictionary">How to Make a Data Dictionary</a></li>
+<li><a href="https://faircookbook.elixir-europe.org/content/recipes/interoperability/creating-data-dictionary.html">10. Creating data/variable dictionary</a> (FAIR Cookbook)&nbsp;</li>
+<li><a href="https://www.usgs.gov/data-management/data-dictionaries">Data Dictionaries | U.S. Geological Survey</a>&nbsp;</li>
+<li><a href="https://library.ucmerced.edu/data-dictionaries" class="uri">https://library.ucmerced.edu/data-dictionaries</a>&nbsp;</li>
+</ul></li>
+</ul></li>
+<li>Repositories
+<ul>
+<li><a href="https://zenodo.org/records/7946938">Generalist Repository Comparison Chart</a>&nbsp;</li>
+<li>Repository of Research Data Repositories <a href="https://www.re3data.org/" class="uri">https://www.re3data.org/</a>&nbsp;</li>
+<li><a href="https://geo-data-support.sites.uu.nl/open-science-open-data/open-repositories/" class="uri">https://geo-data-support.sites.uu.nl/open-science-open-data/open-repositories/</a>&nbsp;</li>
+<li><a href="https://oad.simmons.edu/oadwiki/Data_repositories" class="uri">https://oad.simmons.edu/oadwiki/Data_repositories</a> Organized by subject</li>
+<li><a href="https://geo-data-support.sites.uu.nl/open-science-open-data/repository-comparison/">Geo data - support for researchers | Repository Comparison</a>&nbsp;</li>
+<li><a href="https://doi.org/10.5281/zenodo.14278906">Best Practices for Data Submission in Generalist Repositories: A Checklist</a></li>
+<li><a href="https://zenodo.org/records/7433237">How to Archive Your Work FAIRly on Zenodo</a></li>
+</ul></li>
+<li>Data papers
+<ul>
+<li><a href="https://www.gbif.org/data-papers" class="uri">https://www.gbif.org/data-papers</a>&nbsp;</li>
+<li><a href="https://book.the-turing-way.org/reproducible-research/rdm/rdm-article">Sharing your data through a Data Article - The Turing Way</a></li>
+<li><a href="https://book.the-turing-way.org/communication/dif-articles/data">Data Papers - The Turing Way</a>&nbsp;</li>
+</ul></li>
+<li>Sensitive data
+<ul>
+<li><a href="https://www.povertyactionlab.org/sites/default/files/research-resources/J-PAL-guide-to-deidentifying-data.pdf">J-Pal Guide To De-Identifying Data</a></li>
+</ul></li>
+<li>Data ethics
+<ul>
+<li><a href="https://localcontexts.org/">Local Contexts</a></li>
+<li><a href="https://www.gida-global.org/care">CARE Principles for Indigenous Data Governance</a></li>
+<li><a href="https://participatorysciences.org/resources/data-ethics/">Data Ethics in the Participatory Sciences Toolkit</a></li>
+<li><a href="https://resourcelibrary.openenvironmentaldata.org/tools-and-templates/data-co-ownership-template/">Data Co-Ownership Template</a>&nbsp;</li>
+<li><a href="https://hdl.handle.net/11299/269486">Data ownership &amp; sharing decision tree</a>&nbsp;</li>
+<li><a href="https://doi.org/10.17605/OSF.IO/EQBD3">De-identification when making datasets FAIR: Two worked examples from the behavioral and social sciences</a></li>
+</ul></li>
+</ul>
+<section id="data-management-plans" class="level2">
+<h2 class="anchored" data-anchor-id="data-management-plans">Data management (plans)</h2>
+<ul>
+<li><a href="https://book.the-turing-way.org/reproducible-research/rdm">Research Data Management - The Turing Way</a>&nbsp;
+<ul>
+<li><a href="https://book.the-turing-way.org/reproducible-research/rdm/rdm-resources">Data Management Resources - The Turing Way</a>&nbsp;</li>
+</ul></li>
 <li><a href="https://doi.org/10.5060/D2251G48">Primer on Data Management: What you always wanted to know</a>&nbsp;</li>
 <li><a href="https://doi.org/10.1371/journal.pcbi.1004525">Ten Simple Rules for Creating a Good Data Management Plan</a></li>
 <li><a href="https://ocw.mit.edu/courses/res-str-002-data-management-spring-2016/">MIT OpenCourseWare Data Management</a>
 <ul>
-<li><a href="https://libraries.mit.edu/data-management/plan/write/">Write a data management plan | MIT</a>&nbsp;</li>
+<li><a href="https://libraries.mit.edu/data-management/plan/write/">Write a data management plan | MIT</a></li>
 </ul></li>
 <li><a href="http://www.icpsr.umich.edu/icpsrweb/content/datamanagement/dmp/index.html">Guidelines for Effective Data Management Plans</a></li>
-<li><a href="http://www.icpsr.umich.edu/icpsrweb/content/datamanagement/dmp/resources.html">Data Management Plan Resources and Examples (ICPSR)</a>: Framework for creating a plan and links to examples of data management plans in various scientific disciplines</li>
+<li>UC Irvine Libraries <a href="https://guides.lib.uci.edu/datamanagement/plan">Data Management Plans</a>&nbsp;</li>
+<li><a href="http://www.icpsr.umich.edu/icpsrweb/content/datamanagement/dmp/resources.html">Data Management Plan Resources and Examples (ICPSR)</a></li>
 <li><a href="https://www.lib.umn.edu/datamanagement/dmp-examples-umn-researchers">Example Plans</a> (University of Minnesota)</li>
-<li><a href="https://nosc.noaa.gov/EDMC/data-management-handbook.php">Management of NOAA Data and Information: Data Management Handbook</a> (NAO 212-15B)
+<li><a href="https://nosc.noaa.gov/EDMC/data-management-handbook.php">Management of NOAA Data &amp; Information</a> (NAO 212-15B)
 <ul>
 <li><a href="https://www.fisheries.noaa.gov/inportserve/waf/noaa/nos/co-ops/dmp/pdf/69283.pdf">NOAA Data Management Plan template</a></li>
-<li><a href="https://www.michiganseagrant.org/wp-content/uploads/2023/12/Data-Management-Plan.pdf">Guidelines for Data Management Plans Templates and Examples for the NOAA Restoration Center</a>&nbsp;</li>
+<li><a href="https://www.michiganseagrant.org/wp-content/uploads/2023/12/Data-Management-Plan.pdf">Guidelines for DMPs: Templates and Examples for the NOAA Restoration Center</a>&nbsp;</li>
 <li><a href="https://doa.wi.gov/DIR/Coastal_NOAA-Data-Management-Form.pdf">NOAA OCM Data Management and Sharing Plan Review Form</a>&nbsp;</li>
 </ul></li>
-<li><a href="https://guides.library.cornell.edu/ecommons/metadata">eCommons: Cornell’s Digital Repository: Metadata tips</a>&nbsp;</li>
 <li><a href="https://oercommons.org/courses/data-management">OER Commons Data Management course</a>&nbsp;</li>
-<li><a href="https://data.research.cornell.edu/data-management/planning/data-management-plan/">Writing a data management (and sharing) plan</a>&nbsp;</li>
+<li>Cornell <a href="https://data.research.cornell.edu/data-management/planning/data-management-plan/">Writing a data management (and sharing) plan</a>&nbsp;</li>
+<li>Pepperdine <a href="https://infoguides.pepperdine.edu/c.php?g=287502&amp;p=1916458">Managing Data Sets: Writing a Data Management Plan</a>&nbsp;</li>
 <li><a href="https://guides.lib.umich.edu/engin-dmp">Data Management Plans - Research Guides at University of Michigan Library</a>&nbsp;
 <ul>
 <li><a href="https://www.icpsr.umich.edu/web/pages/datamanagement/dmp/resources.html">Data Management Plan Resources and Examples</a> (UMich)&nbsp;</li>
 </ul></li>
 <li><a href="https://www.britishecologicalsociety.org/wp-content/uploads/2019/06/BES-Guide-Data-Management-2019.pdf">British Ecological Society Guide to Data Management</a>&nbsp;</li>
 <li><a href="https://researchdata.unibas.ch/fileadmin/user_upload/researchdata/FastGuide_v1_print_1_.pdf">Research Data Management cheat sheets</a>&nbsp;</li>
-</ul>
-<section id="ecological-metadata-language-eml" class="level4">
-<h4 class="anchored" data-anchor-id="ecological-metadata-language-eml">Ecological Metadata Language (EML)</h4>
+<li><a href="https://help.osf.io/article/144-creating-a-data-management-plan-dmp-document">Creating a data management plan (DMP) document - OSF Support</a>&nbsp;</li>
+<li><a href="https://datamgmtinedresearch.com/">Data Management in Large-Scale Education Research</a> (book, Crystal Lewis)</li>
+<li>UK Data Service <a href="https://ukdataservice.ac.uk/learning-hub/research-data-management/plan-to-share/checklist/">Data management checklist</a>&nbsp;</li>
+<li><a href="https://resourcelibrary.openenvironmentaldata.org/" class="uri">https://resourcelibrary.openenvironmentaldata.org/</a>&nbsp;
 <ul>
-<li><a href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/index.html">Ecological Metadata Language (EML) Specification</a>&nbsp;</li>
+<li><a href="https://openenvironmentaldataproject.substack.com/p/the-community-data-playbook">Open Env. Data Project - Community Data Playbook</a>&nbsp;</li>
+</ul></li>
+<li><a href="https://datadryad.org/docs/QuickstartGuideToDataSharing.pdf">Dryad’s Quickstart Guide to Data Sharing</a> simple infographic</li>
+<li><a href="https://www.uu.nl/en/research/research-data-management/guides/data-management-planning">Data management planning - Research Data Management Support - Utrecht University</a>&nbsp;</li>
+<li><a href="https://esipfed.github.io/esipDMP/" class="uri">https://esipfed.github.io/esipDMP/</a>&nbsp;</li>
+<li>Project &amp; file organization
+<ul>
+<li><a href="https://heidiseibold.com/2024/03/08/setting-up-a-fair-and-reproducible-project.html">Setting up a FAIR and reproducible project - Heidi Seibold</a></li>
+<li><a href="https://www.projecttier.org/tier-protocol/protocol-4-0/">TIER Protocol 4.0 | Project TIER</a>&nbsp;</li>
+<li><a href="https://www.lib.uiowa.edu/data/manage/file-naming/">File Naming &amp; Organization - University of Iowa Libraries</a>&nbsp;</li>
+<li><a href="https://datamanagement.hms.harvard.edu/plan-design/file-naming-conventions">File Naming Conventions | Harvard Data Management</a>&nbsp;</li>
+<li><a href="https://www.usgs.gov/data-management/organize-files-and-data">Organize Files and Data | U.S. Geological Survey</a></li>
+<li><a href="https://data.research.cornell.edu/data-management/storing-and-managing/file-management/">File management – Cornell Data Services</a>&nbsp;</li>
+<li><a href="https://guides.lib.uci.edu/datamanagement/organize">Organizing Data - Research Guides at University of California Irvine</a>&nbsp;</li>
+<li>MIT Libraries <a href="https://libraries.mit.edu/data-management/store/organize/">Organize your files | Data management</a></li>
+<li>Generating file tree diagrams
+<ul>
+<li><a href="https://substack.com/redirect/d4e30b6a-ef52-4d8f-b13e-c3636546ca23?j=eyJ1IjoiNXhkNXI0In0.A1rwJdxSEF2MRfvNi52jI25icC2syKX9l-X3317KAxo">tree.nathanfriend.com</a>: ASCII folder structure diagrams</li>
+<li><a href="https://woochanleee.github.io/project-tree-generator/">Project Tree Generator</a>: generate a file tree from a GitHub repository URL</li>
+<li><a href="https://ddddddo.github.io/gtree/">Tree Maker</a>: creates file trees using Markdown</li>
+</ul></li>
+</ul></li>
+</ul>
+<p><a href="https://eml.ecoinformatics.org/"><strong>Ecological Metadata Language (EML)</strong></a></p>
+<ul>
+<li><a href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/index.html">EML Specification</a></li>
 <li><a href="https://docs.ropensci.org/EML/index.html">Read and Write Ecological Metadata Language Files • EML</a> (rOpenSci)
 <ul>
 <li><a href="https://livingnorway.github.io/LivingNorwayR/articles/EML_R_packages_overview.html">EML R package overview • LivingNorwayR</a>&nbsp;</li>
 </ul></li>
-<li><a href="https://eml.ecoinformatics.org/eml-schema" class="uri">https://eml.ecoinformatics.org/eml-schema</a>&nbsp;</li>
 <li><a href="https://nceas.github.io/datateam-training/reference/understand-the-eml-schema.html">Understand the EML schema | NCEAS Data Team Reference Guide</a>&nbsp;</li>
-<li><a href="https://nceas.github.io/datateam-training/reference/edit-attributelists.html" class="uri">https://nceas.github.io/datateam-training/reference/edit-attributelists.html</a>&nbsp;</li>
 <li><a href="https://edirepository.org/resources/creating-metadata-for-publication#the-ecological-metadata-language-eml">Creating Metadata for Publication</a> | EML&nbsp;</li>
-<li><a href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EDI/units/EML_units_preferred.html">Standard Units for EML 2.2.0</a></li>
+<li><a href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EDI/units/EML_units_preferred.html">Standard Units for EML 2.2.0</a>&nbsp;</li>
 </ul>
-
-
 </section>
 </section>
+<section id="computational-reproducibility" class="level1">
+<h1>Computational reproducibility</h1>
+<ul>
+<li><strong>Checklist:</strong> <a href="https://fairerdata.github.io/FAIRER-Aware-REPRODUCIBILITY-Assessment/" class="uri">https://fairerdata.github.io/FAIRER-Aware-REPRODUCIBILITY-Assessment/</a>&nbsp;</li>
+<li>British Ecological Society <a href="https://www.britishecologicalsociety.org/wp-content/uploads/2017/12/guide-to-reproducible-code.pdf">A Guide to Reproducible Code in Ecology and Evolution</a></li>
+<li><a href="https://raps-with-r.dev/">Building reproducible analytical pipelines with R</a> (book by Bruno Rodrigues, 2023)</li>
+<li>NMFS Open Science <a href="https://nmfs-opensci.github.io/ResourceBook/content/best_practices_coding/best_practices_r.html">Best Coding Practices in R</a></li>
+<li><a href="https://www.repro4everyone.org/resources" class="uri">https://www.repro4everyone.org/resources</a>&nbsp;</li>
+<li><a href="https://cran.r-project.org/web/views/ReproducibleResearch.html">CRAN Task View: Reproducible Research</a>&nbsp;</li>
+<li>Ecological Forecasting Initiative <a href="https://projects.ecoforecast.org/taskviews/reproducible-forecasting-workflows.html">Reproducible Forecasting Workflows</a></li>
+<li>Course: <a href="https://github.com/rdatatoolbox/">Reproducible Research in Computational Ecology</a></li>
+<li><a href="https://annakrystalli.me/rrresearchACCE20/">Reproducible Research Data &amp; Project Management in R</a> book/course</li>
+<li><a href="https://doi.org/10.32942/X2D93K">TADA</a> (Transferable, Accessible, Documented and Annotated): Simple guidelines to improve code sharing</li>
+<li><a href="https://jacciz.github.io/portfolio/projects/clean_code.html">Readable, Reliable, Reusable: A Guide to Clean R Code</a> (Jacci Ziebert)</li>
+<li><a href="https://stats.andrewheiss.com/mountainous-mackerel/analysis/appendix.html">Example of code appendix for paper</a> (Heiss)</li>
+<li><a href="https://www.lib.uiowa.edu/data/share-and-preserve-your-code/documenting-your-code/">Documenting Your Code - Research Data Services - University of Iowa Libraries</a>&nbsp;</li>
+<li>Code review
+<ul>
+<li><a href="https://github.com/OxfordCodeReviewNet/forum">GitHub - OxfordCodeReviewNet/forum</a>&nbsp;</li>
+<li><a href="https://codecheck.org.uk/">codecheck</a>&nbsp;</li>
+<li><a href="https://github.com/SORTEE/peer-code-review">GitHub - SORTEE/peer-code-review</a> / <a href="https://sortee.github.io/peer-code-review/">Peer Code Review - SORTEE</a>&nbsp;</li>
+<li><a href="https://github.com/tgerke/r-code-review-checklist">A checklist template for R code review</a></li>
+</ul></li>
+<li>Docker
+<ul>
+<li><a href="https://jsta.github.io/r-docker-tutorial/">R Docker tutorial by ropenscilabs</a></li>
+<li><a href="https://colinfay.me/docker-r-reproducibility/">An Introduction to Docker for R Users - Colin Fay</a>&nbsp;</li>
+<li><a href="https://docker-curriculum.com/">Docker Curriculum</a>&nbsp;</li>
+<li><a href="https://rocker-project.org/">Rocker Project</a>&nbsp;</li>
+</ul></li>
+</ul>
+<section id="gitgithub" class="level2">
+<h2 class="anchored" data-anchor-id="gitgithub"><strong>Git/GitHub</strong></h2>
+<ul>
+<li>​​<a href="https://happygitwithr.com/">Happy Git and GitHub for the useR (book</a>)&nbsp;</li>
+<li><a href="https://skills.github.com/">GitHub Skills</a>&nbsp;</li>
+<li><a href="https://rverse-tutorials.github.io/RWorkflow-NWFSC-2022/">Practical R+Git Workflow materials</a> (NMFS Open Science)</li>
+<li><a href="https://nmfs-opensci.github.io/GitHub-Guide/">GitHub Good Practices (NMFS-OpenSci)</a> mostly NOAA-specific</li>
+<li><a href="https://noaa-fisheries-integrated-toolbox.github.io/resources/tags/#github">NOAA Fisheries Integrated Toolbox GitHub Resources</a></li>
+</ul>
+</section>
+</section>
+<section id="organizations-open-science-synthesis-research-etc." class="level1">
+<h1>Organizations: Open science, synthesis research, etc.</h1>
+<ul>
+<li>National Socio-Environmental Synthesis Center <a href="https://www.sesync.org/resources">(SESYNC) Resources</a></li>
+<li><a href="https://www.sortee.org/">Society for Open, Reliable, &amp; Transparent Ecology &amp; Evolutionary Biology</a> (SORTEE)</li>
+<li><a href="https://www.cos.io/">Center for Open Science</a>
+<ul>
+<li><a href="https://osf.io/">Open Science Framework (OSF)</a></li>
+</ul></li>
+<li><a href="https://force11.org/">FORCE11</a></li>
+<li><a href="https://www.rd-alliance.org/">Research Data Alliance</a></li>
+<li><a href="https://makedatacount.org/">Make Data Count</a>&nbsp;</li>
+<li><a href="https://dataverse.org/">The Dataverse Project</a></li>
+<li><a href="https://www.oshwa.org/">Open Source Hardware Association</a> (OSHWA)</li>
+<li><a href="https://forum.openhardware.science/">Gathering for Open Science Hardware</a> (GOSH)</li>
+<li><a href="https://openscience.cern/">CERN Open Science</a></li>
+<li><a href="https://www.openenvironmentaldata.org/">Open Environmental Data Project</a>
+<ul>
+<li><a href="https://seekcommons.org/">Socio-Environmental Knowledge Commons</a> (SEEKCommons)&nbsp;
+<ul>
+<li><a href="https://www.zotero.org/groups/4931993/seekcommons_public_library/library">Zotero Library</a></li>
+</ul></li>
+</ul></li>
+<li><a href="https://biokic.asu.edu/">ASU Biodiversity Knowledge Integration Center</a></li>
+<li><a href="https://www.usgs.gov/programs/science-analytics-and-synthesis-sas">USGS Science Analytics and Synthesis (SAS) Program</a></li>
+<li><a href="https://bcon.aibs.org/">Biodiversity Collections Network</a></li>
+<li><a href="https://www.climateinformatics.org/">Climate Informatics</a></li>
+<li><a href="https://www.esipfed.org/">Earth Science Information Partners (ESIP)</a></li>
+<li><a href="https://scoss.org/what-is-scoss/">Global Sustainability Coalition for Open Science Services (SCOSS)</a></li>
+<li><a href="https://www.cscce.org/resources/">Center for Scientific Collaboration and Community Engagement</a>&nbsp;</li>
+<li><a href="https://www.openmodelingfoundation.org/">Open Modeling Foundation</a>&nbsp;</li>
+</ul>
+</section>
+<section id="open-access-publishing" class="level1">
+<h1>Open access publishing</h1>
+<ul>
+<li><a href="https://dafnee.isem-evolution.fr/">DAFNEE, a Database of Academia Friendly jourNals in Ecology and Evolution</a></li>
+<li><a href="https://openaccessbutton.org/">Open Access Button</a></li>
+<li><a href="https://guides.lib.uiowa.edu/open" class="uri">https://guides.lib.uiowa.edu/open</a>&nbsp;</li>
+</ul>
+<!-- -->
+<ul>
+<li>Article funding
+<ul>
+<li>Springer <a href="https://www.springernature.com/gp/open-research/funding/articles">Funding for Open Access Articles</a></li>
+<li><a href="https://www.ams.org/publications/journals/open-access/openaccess-funding">AMS: Open Access Funding</a>&nbsp;</li>
+<li><a href="https://oad.simmons.edu/oadwiki/OA_publication_funds">OA publication funds - Open Access Directory</a>&nbsp;</li>
+<li><a href="https://www.aslo.org/aslo-publications/loletters-early-career-publication-honor/">The Limnology and Oceanography Letters Early Career Publication Honor</a></li>
+<li>simon.net.nz <a href="https://apc.simon.net.nz/">APCs | How much did it cost to publish in that journal?</a>&nbsp;</li>
+<li><a href="https://plos.org/resources/for-institutions/institutional-account-participants/#us">PLOS journals institutional agreements</a>
+<ul>
+<li><a href="https://plos.org/publish/fees/">PLOS Publication Fee Assistance (PFA) program</a></li>
+</ul></li>
+<li><a href="https://www.cambridge.org/core/services/open-access-policies/waivers-discounts">Cambridge open access waivers and discounts</a>&nbsp;</li>
+<li><a href="https://freejournals.org/current-member-journals/">Free Journal Network current member journals</a>&nbsp;</li>
+<li><a href="https://besjournals.onlinelibrary.wiley.com/hub/apc">BES APC Waivers and Discounts</a>&nbsp;</li>
+<li><a href="https://publications.copernicus.org/for_authors/financial_support.html" class="uri">https://publications.copernicus.org/for_authors/financial_support.html</a>&nbsp;</li>
+<li><a href="https://marioangst.com/en/blog/posts/journals-list/">List of journals that don’t suck – Mario Angst</a>&nbsp;</li>
+<li><a href="https://freejournals.org/current-member-journals/" class="uri">https://freejournals.org/current-member-journals/</a>&nbsp;</li>
+<li><a href="https://www.mathoa.org/journals/">Journals – MathOA</a></li>
+</ul></li>
+<li>Books
+<ul>
+<li><a href="https://www.springernature.com/gp/open-science/funding/books">Funding open access books | Open science | Springer Nature</a>&nbsp;</li>
+<li><a href="https://docs.google.com/spreadsheets/d/1TXICDiNRDXlB0SXdB6Ok5-KiDmS666YhicRbcTSAKWc/edit?gid=1207651249#gid=1207651249">List of Funding Sources for Open Access Books</a></li>
+<li><a href="https://oad.simmons.edu/oadwiki/Publishers_of_OA_books">Publishers of OA books - Open Access Directory</a>&nbsp;</li>
+<li><a href="https://www.ubiquitypress.com/site/oa-funding/">Funds for Open Access Scholarly Books</a>&nbsp;</li>
+<li><a href="https://sloan.org/programs/public-understanding/books" class="uri">https://sloan.org/programs/public-understanding/books</a>&nbsp;</li>
+</ul></li>
+<li>Registered Reports
+<ul>
+<li><a href="https://www.cos.io/initiatives/registered-reports">COS | Registered Reports</a>&nbsp;</li>
+<li><a href="https://rr.peercommunityin.org/about/pci_rr_friendly_journals">List of PCI RR-friendly Journals</a>&nbsp;</li>
+</ul></li>
+</ul>
+<p><br>
+For statistics and coding-related links, see my more general <a href="https://docs.google.com/document/d/1E9UgTfEbDLPmLYCFdKHk1VEAPRffNQN5_mK38vRWmo0/edit?tab=t.0">Resources</a> list</p>
+
+
 </section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
-window.document.addEventListener("DOMContentLoaded", function (event) {
-  const toggleBodyColorMode = (bsSheetEl) => {
-    const mode = bsSheetEl.getAttribute("data-mode");
-    const bodyEl = window.document.querySelector("body");
-    if (mode === "dark") {
-      bodyEl.classList.add("quarto-dark");
-      bodyEl.classList.remove("quarto-light");
-    } else {
-      bodyEl.classList.add("quarto-light");
-      bodyEl.classList.remove("quarto-dark");
-    }
-  }
-  const toggleBodyColorPrimary = () => {
-    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
-    if (bsSheetEl) {
-      toggleBodyColorMode(bsSheetEl);
-    }
-  }
-  toggleBodyColorPrimary();  
-  const icon = "";
-  const anchorJS = new window.AnchorJS();
-  anchorJS.options = {
-    placement: 'right',
-    icon: icon
-  };
-  anchorJS.add('.anchored');
-  const isCodeAnnotation = (el) => {
-    for (const clz of el.classList) {
-      if (clz.startsWith('code-annotation-')) {                     
-        return true;
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
       }
+      return false;
     }
-    return false;
-  }
-  const onCopySuccess = function(e) {
-    // button target
-    const button = e.trigger;
-    // don't keep focus
-    button.blur();
-    // flash "checked"
-    button.classList.add('code-copy-button-checked');
-    var currentTitle = button.getAttribute("title");
-    button.setAttribute("title", "Copied!");
-    let tooltip;
-    if (window.bootstrap) {
-      button.setAttribute("data-bs-toggle", "tooltip");
-      button.setAttribute("data-bs-placement", "left");
-      button.setAttribute("data-bs-title", "Copied!");
-      tooltip = new bootstrap.Tooltip(button, 
-        { trigger: "manual", 
-          customClass: "code-copy-button-tooltip",
-          offset: [0, -8]});
-      tooltip.show();    
-    }
-    setTimeout(function() {
-      if (tooltip) {
-        tooltip.hide();
-        button.removeAttribute("data-bs-title");
-        button.removeAttribute("data-bs-toggle");
-        button.removeAttribute("data-bs-placement");
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
       }
-      button.setAttribute("title", currentTitle);
-      button.classList.remove('code-copy-button-checked');
-    }, 1000);
-    // clear code selection
-    e.clearSelection();
-  }
-  const getTextToCopy = function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
       for (const childEl of codeEl.children) {
         if (isCodeAnnotation(childEl)) {
           childEl.remove();
         }
       }
       return codeEl.innerText;
-  }
-  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
-    text: getTextToCopy
-  });
-  clipboard.on('success', onCopySuccess);
-  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
-      text: getTextToCopy,
-      container: window.document.getElementById('quarto-embedded-source-code-modal')
-    });
-    clipboardModal.on('success', onCopySuccess);
-  }
-    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-    var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
-    var isInternal = (href) => {
-        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
-    // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
-    for (var i=0; i<links.length; i++) {
-      const link = links[i];
-      if (!isInternal(link.href)) {
-        // undo the damage that might have been done by quarto-nav.js in the case of
-        // links that we want to consider external
-        if (link.dataset.originalHref !== undefined) {
-          link.href = link.dataset.originalHref;
-        }
-          // target, if specified
-          link.setAttribute("target", "_blank");
-          if (link.getAttribute("rel") === null) {
-            link.setAttribute("rel", "noopener");
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp('/' + window.location.host + '/');
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
           }
-      }
-    }
-  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
-    const config = {
-      allowHTML: true,
-      maxWidth: 500,
-      delay: 100,
-      arrow: false,
-      appendTo: function(el) {
-          return el.parentElement;
-      },
-      interactive: true,
-      interactiveBorder: 10,
-      theme: 'quarto',
-      placement: 'bottom-start',
-    };
-    if (contentFn) {
-      config.content = contentFn;
-    }
-    if (onTriggerFn) {
-      config.onTrigger = onTriggerFn;
-    }
-    if (onUntriggerFn) {
-      config.onUntrigger = onUntriggerFn;
-    }
-    window.tippy(el, config); 
-  }
-  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
-  for (var i=0; i<noterefs.length; i++) {
-    const ref = noterefs[i];
-    tippyHover(ref, function() {
-      // use id or data attribute instead here
-      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
-      try { href = new URL(href).hash; } catch {}
-      const id = href.replace(/^#\/?/, "");
-      const note = window.document.getElementById(id);
-      if (note) {
-        return note.innerHTML;
-      } else {
-        return "";
-      }
-    });
-  }
-  const xrefs = window.document.querySelectorAll('a.quarto-xref');
-  const processXRef = (id, note) => {
-    // Strip column container classes
-    const stripColumnClz = (el) => {
-      el.classList.remove("page-full", "page-columns");
-      if (el.children) {
-        for (const child of el.children) {
-          stripColumnClz(child);
+            // target, if specified
+            link.setAttribute("target", "_blank");
+            if (link.getAttribute("rel") === null) {
+              link.setAttribute("rel", "noopener");
+            }
         }
       }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
     }
-    stripColumnClz(note)
-    if (id === null || id.startsWith('sec-')) {
-      // Special case sections, only their first couple elements
-      const container = document.createElement("div");
-      if (note.children && note.children.length > 2) {
-        container.appendChild(note.children[0].cloneNode(true));
-        for (let i = 1; i < note.children.length; i++) {
-          const child = note.children[i];
-          if (child.tagName === "P" && child.innerText === "") {
-            continue;
-          } else {
-            container.appendChild(child.cloneNode(true));
-            break;
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
           }
         }
-        if (window.Quarto?.typesetMath) {
-          window.Quarto.typesetMath(container);
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
         }
-        return container.innerHTML
       } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
         if (window.Quarto?.typesetMath) {
           window.Quarto.typesetMath(note);
         }
-        return note.innerHTML;
-      }
-    } else {
-      // Remove any anchor links if they are present
-      const anchorLink = note.querySelector('a.anchorjs-link');
-      if (anchorLink) {
-        anchorLink.remove();
-      }
-      if (window.Quarto?.typesetMath) {
-        window.Quarto.typesetMath(note);
-      }
-      if (note.classList.contains("callout")) {
-        return note.outerHTML;
-      } else {
-        return note.innerHTML;
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
       }
     }
-  }
-  for (var i=0; i<xrefs.length; i++) {
-    const xref = xrefs[i];
-    tippyHover(xref, undefined, function(instance) {
-      instance.disable();
-      let url = xref.getAttribute('href');
-      let hash = undefined; 
-      if (url.startsWith('#')) {
-        hash = url;
-      } else {
-        try { hash = new URL(url).hash; } catch {}
-      }
-      if (hash) {
-        const id = hash.replace(/^#\/?/, "");
-        const note = window.document.getElementById(id);
-        if (note !== null) {
-          try {
-            const html = processXRef(id, note.cloneNode(true));
-            instance.setContent(html);
-          } finally {
-            instance.enable();
-            instance.show();
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
           }
         } else {
-          // See if we can fetch this
-          fetch(url.split('#')[0])
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
           .then(res => res.text())
           .then(html => {
             const parser = new DOMParser();
             const htmlDoc = parser.parseFromString(html, "text/html");
-            const note = htmlDoc.getElementById(id);
+            const note = htmlDoc.querySelector('main.content');
             if (note !== null) {
-              const html = processXRef(id, note);
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
               instance.setContent(html);
             } 
           }).finally(() => {
@@ -548,185 +793,161 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             instance.show();
           });
         }
-      } else {
-        // See if we can fetch a full url (with no hash to target)
-        // This is a special case and we should probably do some content thinning / targeting
-        fetch(url)
-        .then(res => res.text())
-        .then(html => {
-          const parser = new DOMParser();
-          const htmlDoc = parser.parseFromString(html, "text/html");
-          const note = htmlDoc.querySelector('main.content');
-          if (note !== null) {
-            // This should only happen for chapter cross references
-            // (since there is no id in the URL)
-            // remove the first header
-            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
-              note.children[0].remove();
-            }
-            const html = processXRef(null, note);
-            instance.setContent(html);
-          } 
-        }).finally(() => {
-          instance.enable();
-          instance.show();
-        });
-      }
-    }, function(instance) {
-    });
-  }
-      let selectedAnnoteEl;
-      const selectorForAnnotation = ( cell, annotation) => {
-        let cellAttr = 'data-code-cell="' + cell + '"';
-        let lineAttr = 'data-code-annotation="' +  annotation + '"';
-        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
-        return selector;
-      }
-      const selectCodeLines = (annoteEl) => {
-        const doc = window.document;
-        const targetCell = annoteEl.getAttribute("data-target-cell");
-        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
-        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
-        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
-        const lineIds = lines.map((line) => {
-          return targetCell + "-" + line;
-        })
-        let top = null;
-        let height = null;
-        let parent = null;
-        if (lineIds.length > 0) {
-            //compute the position of the single el (top and bottom and make a div)
-            const el = window.document.getElementById(lineIds[0]);
-            top = el.offsetTop;
-            height = el.offsetHeight;
-            parent = el.parentElement.parentElement;
-          if (lineIds.length > 1) {
-            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
-            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
-            height = bottom - top;
-          }
-          if (top !== null && height !== null && parent !== null) {
-            // cook up a div (if necessary) and position it 
-            let div = window.document.getElementById("code-annotation-line-highlight");
-            if (div === null) {
-              div = window.document.createElement("div");
-              div.setAttribute("id", "code-annotation-line-highlight");
-              div.style.position = 'absolute';
-              parent.appendChild(div);
-            }
-            div.style.top = top - 2 + "px";
-            div.style.height = height + 4 + "px";
-            div.style.left = 0;
-            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
-            if (gutterDiv === null) {
-              gutterDiv = window.document.createElement("div");
-              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
-              gutterDiv.style.position = 'absolute';
-              const codeCell = window.document.getElementById(targetCell);
-              const gutter = codeCell.querySelector('.code-annotation-gutter');
-              gutter.appendChild(gutterDiv);
-            }
-            gutterDiv.style.top = top - 2 + "px";
-            gutterDiv.style.height = height + 4 + "px";
-          }
-          selectedAnnoteEl = annoteEl;
-        }
-      };
-      const unselectCodeLines = () => {
-        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
-        elementsIds.forEach((elId) => {
-          const div = window.document.getElementById(elId);
-          if (div) {
-            div.remove();
-          }
-        });
-        selectedAnnoteEl = undefined;
-      };
-        // Handle positioning of the toggle
-    window.addEventListener(
-      "resize",
-      throttle(() => {
-        elRect = undefined;
-        if (selectedAnnoteEl) {
-          selectCodeLines(selectedAnnoteEl);
-        }
-      }, 10)
-    );
-    function throttle(fn, ms) {
-    let throttle = false;
-    let timer;
-      return (...args) => {
-        if(!throttle) { // first call gets through
-            fn.apply(this, args);
-            throttle = true;
-        } else { // all the others get throttled
-            if(timer) clearTimeout(timer); // cancel #2
-            timer = setTimeout(() => {
-              fn.apply(this, args);
-              timer = throttle = false;
-            }, ms);
-        }
-      };
-    }
-      // Attach click handler to the DT
-      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
-      for (const annoteDlNode of annoteDls) {
-        annoteDlNode.addEventListener('click', (event) => {
-          const clickedEl = event.target;
-          if (clickedEl !== selectedAnnoteEl) {
-            unselectCodeLines();
-            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
-            if (activeEl) {
-              activeEl.classList.remove('code-annotation-active');
-            }
-            selectCodeLines(clickedEl);
-            clickedEl.classList.add('code-annotation-active');
-          } else {
-            // Unselect the line
-            unselectCodeLines();
-            clickedEl.classList.remove('code-annotation-active');
-          }
-        });
-      }
-  const findCites = (el) => {
-    const parentEl = el.parentElement;
-    if (parentEl) {
-      const cites = parentEl.dataset.cites;
-      if (cites) {
-        return {
-          el,
-          cites: cites.split(' ')
-        };
-      } else {
-        return findCites(el.parentElement)
-      }
-    } else {
-      return undefined;
-    }
-  };
-  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
-  for (var i=0; i<bibliorefs.length; i++) {
-    const ref = bibliorefs[i];
-    const citeInfo = findCites(ref);
-    if (citeInfo) {
-      tippyHover(citeInfo.el, function() {
-        var popup = window.document.createElement('div');
-        citeInfo.cites.forEach(function(cite) {
-          var citeDiv = window.document.createElement('div');
-          citeDiv.classList.add('hanging-indent');
-          citeDiv.classList.add('csl-entry');
-          var biblioDiv = window.document.getElementById('ref-' + cite);
-          if (biblioDiv) {
-            citeDiv.innerHTML = biblioDiv.innerHTML;
-          }
-          popup.appendChild(citeDiv);
-        });
-        return popup.innerHTML;
+      }, function(instance) {
       });
     }
-  }
-});
-</script>
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
 </div> <!-- /content -->
 
 

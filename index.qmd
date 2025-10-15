@@ -33,14 +33,7 @@ You can find my full CV [here](Krasnow_CV_for_web_2025-08-11.pdf).
 
 ## Education
 
-I am a Ph.D. student studying Marine Biology at the University of Maine. My primary advisor is Dr. Damian Brady, who leads a large lab group focused on [Marine Sciences of Aquaculture, Fisheries, and Renewable Energy](https://umaine.edu/bradylab/). I have been working with the Brady lab since 2022 and am thrilled to continue my education as a member of such an exciting, collaborative, and passionate group of researchers.
-
-**B.A., Biology** - Clark University, Worcester, MA \| Dec. 2024
-
--   Minor in Mathematics
--   GPA: 4.0
-
-**Semester in Environmental Science** - Marine Biological Laboratory, Woods Hole, MA \| Fall 2023
+I am a Ph.D. student studying Marine Biology at the University of Maine. My primary advisor is Dr. Damian Brady, who leads a large lab group focused on [Marine Sciences of Aquaculture, Fisheries, and Renewable Energy](https://umaine.edu/bradylab/).
 
 ## Research
 
@@ -55,7 +48,6 @@ I am a Ph.D. student studying Marine Biology at the University of Maine. My prim
     -   Generalized linear models, mixed-effects models, and related methods
     -   Dynamical/state-space modeling
         -   Applications of ordinary and partial differential equations in ecology
-    -   Bayesian analysis
     -   Spatiotemporal modeling (including geostatistics and time series analysis)
     -   R package development
 
