@@ -2,7 +2,7 @@
   title: "Publications"
 ---
 
-Cleaver, C., Bayer, S., McMahan, M., Kiffney, T., Krasnow, R., Jekielek, P., Moritz, B., Batchelder, J., Arnold, S.N., Guenther, G., Miller, D., Miller, T., Wahle, R., Wotton, J., & Young, T.H. The effects of small-scale closed areas on the Atlantic sea scallop (*Placopecten magellanicus*) in Maine. In press, *Marine and Coastal Fisheries*
+Cleaver, C., Bayer, S., McMahan, M., Kiffney, T., Krasnow, R., Jekielek, P., Moritz, B., Batchelder, J., Arnold, S., Guenther, C., Miller, D., Miller, T., Wahle, R., Wotton, J., & Young, T. (2026). The effects of small-scale closed areas on the Atlantic sea scallop (*Placopecten magellanicus*) in Maine. *Marine and Coastal Fisheries, 18*(3), vtaf041. <https://doi.org/10.1093/mcfafs/vtaf041>
 
 Krasnow, R., Kiffney, T., Cuddy, R., & Brady, D. (2025). Interacting effects of environment and cultivation method on biofouling of farmed oysters (*Crassostrea virginica*). *Journal of the World Aquaculture Society*, *56*(3), e70012. <https://doi.org/10.1111/jwas.70012>
 
