@@ -30,7 +30,7 @@ about:
 
 My name is Ruby Krasnow *(she/her)* and I am a quantitative marine ecologist focused on using mathematical modeling and data science to support sustainable fisheries management and marine aquaculture.
 
-You can find my full CV [here](Krasnow_CV_for_web_2025-08-11.pdf).
+You can find my full CV [here](Krasnow_CV_2026-09-07.pdf).
 :::
 
 ## Education
@@ -41,26 +41,26 @@ I am a Ph.D. student studying Marine Biology at the University of Maine. My prim
 
 ### Methods & Approaches
 
--   Synthesis research: systematic reviews, meta-analysis, interdisciplinary collaborations
+- Synthesis research: systematic reviews, meta-analysis, interdisciplinary collaborations
 
--   Open and reproducible data science: [FAIR](https://www.go-fair.org/fair-principles/) (findable, accessible, interoperable, and reusable) data
+- Open and reproducible data science: [FAIR](https://www.go-fair.org/fair-principles/) (findable, accessible, interoperable, and reusable) data
 
--   Statistical analysis, modeling, and data visualization in R
+- Statistical analysis, modeling, and data visualization in R
 
-    -   Generalized linear models, mixed-effects models, and related methods
-    -   Dynamical/state-space modeling
-        -   Applications of ordinary and partial differential equations in ecology
-    -   Spatiotemporal modeling (including geostatistics and time series analysis)
-    -   R package development
+  - Generalized linear models, mixed-effects models, and related methods
+  - Dynamical/state-space modeling
+    - Applications of ordinary and partial differential equations in ecology
+  - Spatiotemporal modeling (including geostatistics and time series analysis)
+  - R package development
 
 ### Applications
 
 #### Quantitative fisheries
 
-I am especially interested stock assessment and population dynamics models for economically important crustacean species, particularly data-poor species like the Jonah crab (*Cancer borealis*). My dissertation is broadly focused on [estimating crustacean size at maturity from morphometric data](https://rmk118.github.io/thesis_proposal/).
+I am especially interested stock assessment and population dynamics models for economically important crustacean species, particularly data-poor species like the Jonah crab (*Cancer borealis*). My dissertation is broadly focused on estimating crustacean size at maturity from morphometric data.
 
 #### Marine aquaculture
 
--   Dynamic Energy Budget models of cultivated sugar kelp
--   Spatial modeling for aquaculture site selection
--   Quantifying, predicting, and mitigating biofouling in kelp and shellfish aquaculture
+- Dynamic Energy Budget models of cultivated sugar kelp
+- Spatial modeling for aquaculture site selection
+- Quantifying, predicting, and mitigating biofouling in kelp and shellfish aquaculture
