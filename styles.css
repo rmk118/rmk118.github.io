@@ -1,1 +1,55 @@
-/* css styles */
+  border-bottom: 0;
+  font-size: 1.35rem;
+  font-weight: 600;
+  line-height: 1.3;
+}
+
+main.content h3 {
+  margin-top: 1.5rem;
+  margin-bottom: 0.65rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  line-height: 1.35;
+}
+
+/* Reusable tagline, including "When I'm not on my computer" */
+.eyebrow,
+.running-eyebrow {
+  color: var(--ruby-muted);
+  font-size: 0.85rem;
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+/* Links in prose */
+main.content p a,
+main.content li a,
+main.content td a {
+  text-underline-offset: 0.2em;
+  text-decoration-thickness: 0.08em;
+}
+
+/* Tables, including personal bests */
+main.content table {
+  font-size: 0.95rem;
+  font-variant-numeric: tabular-nums;
+}
+
+main.content table th,
+main.content table td {
+  padding: 0.65rem 0.6rem;
+  border-bottom: 1px solid var(--ruby-rule);
+  vertical-align: top;
+}
+
+main.content table th {
+  font-weight: 600;
+}
+
+/* Optional small notes and photo credits */
+.running-record-note,
+.running-photo-credit {
+  color: var(--ruby-muted);
+  font-size: 0.85rem;
+}

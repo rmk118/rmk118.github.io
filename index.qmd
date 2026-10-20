@@ -49,18 +49,17 @@ I am a Ph.D. student studying Marine Biology at the University of Maine. My prim
 
   - Generalized linear models, mixed-effects models, and related methods
   - Dynamical/state-space modeling
-    - Applications of ordinary and partial differential equations in ecology
-  - Spatiotemporal modeling (including geostatistics and time series analysis)
+  - Spatiotemporal modeling
   - R package development
 
 ### Applications
 
 #### Quantitative fisheries
 
-I am especially interested stock assessment and population dynamics models for economically important crustacean species, particularly data-poor species like the Jonah crab (*Cancer borealis*). My dissertation is broadly focused on estimating crustacean size at maturity from morphometric data.
+I am especially interested in stock assessment and population dynamics models for economically important crustacean species, particularly data-poor species like the Jonah crab (*Cancer borealis*). My dissertation is broadly focused on estimating crustacean size at maturity from morphometric data.
 
-#### Marine aquaculture
+#### Previous work in marine aquaculture
 
 - Dynamic Energy Budget models of cultivated sugar kelp
-- Spatial modeling for aquaculture site selection
 - Quantifying, predicting, and mitigating biofouling in kelp and shellfish aquaculture
+- Oyster aquaculture socioeconomics

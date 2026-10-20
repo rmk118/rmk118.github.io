@@ -12,6 +12,8 @@ website:
         text: Publications
       - href: open_science.qmd
         text: Open Science
+      - href: running.qmd
+        text: Running
     right:
       - icon: envelope-fill
         href: mailto:rubykrasnow@gmail.com

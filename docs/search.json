@@ -32,7 +32,7 @@
     "href": "index.html#research",
     "title": "Ruby Krasnow",
     "section": "Research",
-    "text": "Research\n\nMethods & Approaches\n\nSynthesis research: systematic reviews, meta-analysis, interdisciplinary collaborations\nOpen and reproducible data science: FAIR (findable, accessible, interoperable, and reusable) data\nStatistical analysis, modeling, and data visualization in R\n\nGeneralized linear models, mixed-effects models, and related methods\nDynamical/state-space modeling\n\nApplications of ordinary and partial differential equations in ecology\n\nSpatiotemporal modeling (including geostatistics and time series analysis)\nR package development\n\n\n\n\nApplications\n\nQuantitative fisheries\nI am especially interested stock assessment and population dynamics models for economically important crustacean species, particularly data-poor species like the Jonah crab (Cancer borealis). My dissertation is broadly focused on estimating crustacean size at maturity from morphometric data.\n\n\nMarine aquaculture\n\nDynamic Energy Budget models of cultivated sugar kelp\nSpatial modeling for aquaculture site selection\nQuantifying, predicting, and mitigating biofouling in kelp and shellfish aquaculture"
+    "text": "Research\n\nMethods & Approaches\n\nSynthesis research: systematic reviews, meta-analysis, interdisciplinary collaborations\nOpen and reproducible data science: FAIR (findable, accessible, interoperable, and reusable) data\nStatistical analysis, modeling, and data visualization in R\n\nGeneralized linear models, mixed-effects models, and related methods\nDynamical/state-space modeling\nSpatiotemporal modeling\nR package development\n\n\n\n\nApplications\n\nQuantitative fisheries\nI am especially interested in stock assessment and population dynamics models for economically important crustacean species, particularly data-poor species like the Jonah crab (Cancer borealis). My dissertation is broadly focused on estimating crustacean size at maturity from morphometric data.\n\n\nPrevious work in marine aquaculture\n\nDynamic Energy Budget models of cultivated sugar kelp\nQuantifying, predicting, and mitigating biofouling in kelp and shellfish aquaculture\nOyster aquaculture socioeconomics"
   },
   {
     "objectID": "open_science.html",
@@ -96,5 +96,54 @@
     "title": "Open Science",
     "section": "Git/GitHub",
     "text": "Git/GitHub\n\n​​Happy Git and GitHub for the useR (book) \nGitHub Skills \nPractical R+Git Workflow materials (NMFS Open Science)\nGitHub Good Practices (NMFS-OpenSci) mostly NOAA-specific\nNOAA Fisheries Integrated Toolbox GitHub Resources"
+  },
+  {
+    "objectID": "running.html",
+    "href": "running.html",
+    "title": "Running",
+    "section": "",
+    "text": "When I’m not on my computer\nI discovered my love of running while pursuing my undergraduate degree at Clark University, where I joined the varsity cross-country team (NCAA DIII) initially as a way to make new friends. Over the course of my time at Clark, I improved enough that with my remaining eligibility, I was able to compete for the University of Maine (NCAA DI) cross-country and track teams for the first year and a half of my PhD. I am now continuing to train and race alongside my research."
+  },
+  {
+    "objectID": "running.html#selected-highlights",
+    "href": "running.html#selected-highlights",
+    "title": "Running",
+    "section": "Selected highlights",
+    "text": "Selected highlights\n\nUniversity of Maine\n\nOutdoor 5000m school record holder (15:59), breaking a 14-year-old mark\nNCAA East Regional qualifier in the 5000m and 10,000m\n2026 America East indoor 3000m champion and IC4A/ECAC 5000m champion\nSeventh at the 2025 America East Cross Country Championships, helping Maine secure its first conference title in program history\nThree-time Elite 18 Award recipient for the highest GPA among All-Conference finishers\n\n\n\nClark University\n\nSchool record holder in the women’s outdoor 5000m and 10,000m and cross country 6km\nFemale Athlete of the Year in 2024–25 and 2022–23\nClark’s first qualifier for the NCAA Division III Cross Country National Championships"
+  },
+  {
+    "objectID": "running.html#beyond-the-results",
+    "href": "running.html#beyond-the-results",
+    "title": "Running",
+    "section": "",
+    "text": "[Add a short paragraph about what running means to you: favorite places to run, teammates and community, a memorable race, or how running fits into graduate school.]"
+  },
+  {
+    "objectID": "running.html#personal-bests",
+    "href": "running.html#personal-bests",
+    "title": "Running",
+    "section": "Personal bests",
+    "text": "Personal bests\n\n\n\nEvent\nTime\nRace\n\n\n\n\n3000m\n9:25\n2026 America East Indoor Championship\n\n\n5000m\n15:59\n2026 MIT Sean Collier Invitational\n\n\n10,000m\n33:45\n2026 Penn Relays\n\n\n10K road\n33:57\n2026 Boston 10K for Women"
+  },
+  {
+    "objectID": "running_no_pics.html",
+    "href": "running_no_pics.html",
+    "title": "Running",
+    "section": "",
+    "text": "When I’m not on my computer\nI discovered my love of running while pursuing my undergraduate degree at Clark University, where I joined the varsity cross-country team (NCAA DIII) initially as a way to make new friends. Over the course of my time at Clark, I improved enough that with my remaining eligibility, I was able to compete for the University of Maine (NCAA DI) cross-country and track teams for the first year and a half of my PhD. I am now continuing to train and race alongside my research."
+  },
+  {
+    "objectID": "running_no_pics.html#selected-highlights",
+    "href": "running_no_pics.html#selected-highlights",
+    "title": "Running",
+    "section": "Selected highlights",
+    "text": "Selected highlights\n\nUniversity of Maine\n\nOutdoor 5000m school record holder (15:59), breaking a 14-year-old mark\nNCAA East Regional qualifier in the 5000m and 10,000m\n2026 America East indoor 3000m champion and IC4A/ECAC 5000m champion\nSeventh at the 2025 America East Cross Country Championships, helping Maine secure its first conference title in program history\nThree-time Elite 18 Award recipient for the highest GPA among All-Conference finishers\n\n\n\nClark University\n\nSchool record holder in the women’s outdoor 5000m and 10,000m and cross country 6km\nFemale Athlete of the Year in 2024–25 and 2022–23\nClark’s first qualifier for the NCAA Division III Cross Country National Championships"
+  },
+  {
+    "objectID": "running_no_pics.html#personal-bests",
+    "href": "running_no_pics.html#personal-bests",
+    "title": "Running",
+    "section": "Personal bests",
+    "text": "Personal bests\n\n\n\nEvent\nTime\nRace\n\n\n\n\n3000m\n9:25\n2026 America East Indoor Championship\n\n\n5000m\n15:59\n2026 MIT Sean Collier Invitational\n\n\n10,000m\n33:45\n2026 Penn Relays\n\n\n10K road\n33:57\n2026 Boston 10K for Women"
   }
 ]

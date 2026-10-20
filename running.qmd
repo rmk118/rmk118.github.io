@@ -1,0 +1,51 @@
+---
+title: "Running"
+page-layout: article
+toc: false
+number-sections: false
+anchor-sections: false
+format: html
+editor:
+  markdown:
+    wrap: 72
+---
+
+[When I'm not on my computer]{.running-eyebrow}
+
+I discovered my love of running while pursuing my undergraduate degree
+at Clark University, where I joined the varsity cross-country team (NCAA
+DIII) initially as a way to make new friends. Over the course of my time
+at Clark, I improved enough that with my remaining eligibility, I was
+able to compete for the University of Maine (NCAA DI) cross-country and
+track teams for the first year and a half of my PhD. I am now continuing
+to train and race alongside my research.
+
+## Selected highlights
+
+### University of Maine
+
+- Outdoor 5000m school record holder (15:59), breaking a 14-year-old
+  mark
+- NCAA East Regional qualifier in the 5000m and 10,000m
+- 2026 America East indoor 3000m champion and IC4A/ECAC 5000m champion
+- Seventh at the 2025 America East Cross Country Championships, helping
+  Maine secure its first conference title in program history
+- Three-time Elite 18 Award recipient for the highest GPA among
+  All-Conference finishers
+
+### Clark University
+
+- School record holder in the women’s outdoor 5000m and 10,000m and
+  cross country 6km
+- Female Athlete of the Year in 2024–25 and 2022–23
+- Clark’s first qualifier for the NCAA Division III Cross Country
+  National Championships
+
+## Personal bests
+
+| Event    |  Time | Race                                  |
+|:---------|------:|:--------------------------------------|
+| 3000m   |  9:25 | 2026 America East Indoor Championship |
+| 5000m   | 15:59 | 2026 MIT Sean Collier Invitational    |
+| 10,000m | 33:45 | 2026 Penn Relays                      |
+| 10K road | 33:57 | 2026 Boston 10K for Women             |
